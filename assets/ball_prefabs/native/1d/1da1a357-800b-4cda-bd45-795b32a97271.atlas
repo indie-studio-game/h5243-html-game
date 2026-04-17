@@ -1,0 +1,125 @@
+
+dragon_mj_sz.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_mj_h
+  rotate: false
+  xy: 2, 330
+  size: 664, 850
+  orig: 675, 861
+  offset: 7, 5
+  index: -1
+dragon_mj_s1
+  rotate: true
+  xy: 3263, 100
+  size: 494, 771
+  orig: 494, 771
+  offset: 0, 0
+  index: -1
+dragon_mj_s2
+  rotate: true
+  xy: 2457, 2
+  size: 425, 703
+  orig: 425, 703
+  offset: 0, 0
+  index: -1
+gx_01
+  rotate: false
+  xy: 1783, 120
+  size: 330, 330
+  orig: 1920, 1080
+  offset: 796, 383
+  index: -1
+gx_02
+  rotate: false
+  xy: 2484, 429
+  size: 777, 773
+  orig: 1920, 1080
+  offset: 566, 157
+  index: -1
+gx_03
+  rotate: true
+  xy: 1666, 1191
+  size: 815, 816
+  orig: 1920, 1080
+  offset: 543, 130
+  index: -1
+gx_04
+  rotate: false
+  xy: 2, 1182
+  size: 834, 824
+  orig: 1920, 1080
+  offset: 540, 128
+  index: -1
+gx_05
+  rotate: true
+  xy: 838, 1187
+  size: 819, 826
+  orig: 1920, 1080
+  offset: 543, 126
+  index: -1
+gx_06
+  rotate: true
+  xy: 2484, 1204
+  size: 802, 798
+  orig: 1920, 1080
+  offset: 552, 135
+  index: -1
+gx_07
+  rotate: false
+  xy: 1666, 452
+  size: 705, 737
+  orig: 1920, 1080
+  offset: 643, 155
+  index: -1
+gx_08
+  rotate: false
+  xy: 838, 457
+  size: 702, 728
+  orig: 1920, 1080
+  offset: 642, 160
+  index: -1
+gx_09
+  rotate: true
+  xy: 3263, 596
+  size: 606, 590
+  orig: 1920, 1080
+  offset: 647, 266
+  index: -1
+gx_10
+  rotate: false
+  xy: 3284, 1422
+  size: 602, 584
+  orig: 1920, 1080
+  offset: 649, 268
+  index: -1
+gx_11
+  rotate: false
+  xy: 668, 4
+  size: 560, 451
+  orig: 1920, 1080
+  offset: 685, 293
+  index: -1
+gx_12
+  rotate: false
+  xy: 1230, 6
+  size: 551, 444
+  orig: 1920, 1080
+  offset: 693, 292
+  index: -1
+gx_13
+  rotate: true
+  xy: 2373, 654
+  size: 535, 87
+  orig: 1920, 1080
+  offset: 702, 640
+  index: -1
+gx_14
+  rotate: true
+  xy: 2373, 120
+  size: 532, 82
+  orig: 1920, 1080
+  offset: 704, 641
+  index: -1

@@ -1,0 +1,76 @@
+
+fazhen_green.png
+size: 718,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1x
+  rotate: false
+  xy: 439, 14
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+2q
+  rotate: false
+  xy: 555, 231
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+fz
+  rotate: false
+  xy: 2, 107
+  size: 284, 285
+  orig: 300, 300
+  offset: 8, 7
+  index: -1
+g
+  rotate: false
+  xy: 288, 126
+  size: 265, 266
+  orig: 300, 276
+  offset: 10, 9
+  index: -1
+gt
+  rotate: false
+  xy: 551, 51
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+gy-xj
+  rotate: false
+  xy: 325, 12
+  size: 112, 112
+  orig: 132, 131
+  offset: 10, 9
+  index: -1
+lx
+  rotate: false
+  xy: 670, 210
+  size: 8, 19
+  orig: 12, 20
+  offset: 2, 0
+  index: -1
+q1
+  rotate: false
+  xy: 555, 117
+  size: 113, 112
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+ss
+  rotate: true
+  xy: 2, 2
+  size: 103, 212
+  orig: 103, 212
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 216, 2
+  size: 103, 107
+  orig: 108, 110
+  offset: 3, 2
+  index: -1

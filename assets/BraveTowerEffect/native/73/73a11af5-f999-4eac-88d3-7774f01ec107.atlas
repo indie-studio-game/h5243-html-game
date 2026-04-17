@@ -1,0 +1,20 @@
+
+skill_12_hp.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+补给类buff特效/effect_star_2
+  rotate: false
+  xy: 144, 144
+  size: 70, 70
+  orig: 73, 73
+  offset: 2, 1
+  index: -1
+补给类buff特效/leven_up_light2
+  rotate: true
+  xy: 2, 179
+  size: 35, 140
+  orig: 42, 146
+  offset: 4, 3
+  index: -1

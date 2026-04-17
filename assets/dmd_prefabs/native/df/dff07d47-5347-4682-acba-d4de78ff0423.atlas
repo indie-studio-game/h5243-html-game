@@ -1,0 +1,132 @@
+
+demon_bullet.png
+size: 214,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic1
+  rotate: true
+  xy: 165, 328
+  size: 160, 41
+  orig: 160, 41
+  offset: 0, 0
+  index: -1
+pic2
+  rotate: true
+  xy: 169, 166
+  size: 160, 43
+  orig: 160, 43
+  offset: 0, 0
+  index: -1
+pic3
+  rotate: true
+  xy: 166, 2
+  size: 162, 42
+  orig: 162, 42
+  offset: 0, 0
+  index: -1
+pic4
+  rotate: false
+  xy: 2, 19
+  size: 161, 40
+  orig: 161, 40
+  offset: 0, 0
+  index: -1
+pic5
+  rotate: false
+  xy: 2, 61
+  size: 162, 35
+  orig: 162, 35
+  offset: 0, 0
+  index: -1
+pic6
+  rotate: false
+  xy: 2, 343
+  size: 161, 33
+  orig: 161, 33
+  offset: 0, 0
+  index: -1
+zidan01_1
+  rotate: false
+  xy: 2, 273
+  size: 165, 33
+  orig: 165, 33
+  offset: 0, 0
+  index: -1
+zidan01_2
+  rotate: false
+  xy: 2, 238
+  size: 165, 33
+  orig: 165, 33
+  offset: 0, 0
+  index: -1
+zidan01_3
+  rotate: false
+  xy: 2, 203
+  size: 165, 33
+  orig: 165, 33
+  offset: 0, 0
+  index: -1
+zidan01_4
+  rotate: false
+  xy: 2, 168
+  size: 165, 33
+  orig: 165, 33
+  offset: 0, 0
+  index: -1
+zidan02_1
+  rotate: false
+  xy: 2, 308
+  size: 161, 33
+  orig: 161, 33
+  offset: 0, 0
+  index: -1
+zidan02_2
+  rotate: false
+  xy: 2, 133
+  size: 161, 33
+  orig: 161, 33
+  offset: 0, 0
+  index: -1
+zidan02_3
+  rotate: false
+  xy: 2, 98
+  size: 161, 33
+  orig: 161, 33
+  offset: 0, 0
+  index: -1
+zidan02_4
+  rotate: false
+  xy: 2, 98
+  size: 161, 33
+  orig: 161, 33
+  offset: 0, 0
+  index: -1
+zidan03_1
+  rotate: false
+  xy: 2, 462
+  size: 142, 26
+  orig: 142, 26
+  offset: 0, 0
+  index: -1
+zidan03_2
+  rotate: false
+  xy: 2, 434
+  size: 142, 26
+  orig: 142, 26
+  offset: 0, 0
+  index: -1
+zidan03_3
+  rotate: false
+  xy: 2, 406
+  size: 142, 26
+  orig: 142, 26
+  offset: 0, 0
+  index: -1
+zidan03_4
+  rotate: false
+  xy: 2, 378
+  size: 142, 26
+  orig: 142, 26
+  offset: 0, 0
+  index: -1

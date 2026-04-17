@@ -1,0 +1,90 @@
+
+djdh_3.png
+size: 523,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: false
+  xy: 307, 141
+  size: 115, 154
+  orig: 116, 156
+  offset: 0, 1
+  index: -1
+houqun
+  rotate: true
+  xy: 176, 112
+  size: 20, 50
+  orig: 22, 52
+  offset: 1, 1
+  index: -1
+piaodai
+  rotate: true
+  xy: 424, 155
+  size: 140, 97
+  orig: 142, 99
+  offset: 1, 1
+  index: -1
+shangshen
+  rotate: false
+  xy: 2, 97
+  size: 172, 198
+  orig: 173, 200
+  offset: 0, 1
+  index: -1
+tou
+  rotate: true
+  xy: 228, 10
+  size: 122, 159
+  orig: 122, 159
+  offset: 0, 0
+  index: -1
+tuzi
+  rotate: false
+  xy: 130, 5
+  size: 48, 50
+  orig: 50, 52
+  offset: 1, 1
+  index: -1
+xiashen
+  rotate: false
+  xy: 176, 134
+  size: 129, 161
+  orig: 129, 161
+  offset: 0, 0
+  index: -1
+youpiaodai
+  rotate: true
+  xy: 80, 57
+  size: 38, 130
+  orig: 40, 132
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: false
+  xy: 180, 3
+  size: 30, 52
+  orig: 32, 54
+  offset: 1, 1
+  index: -1
+youshoubi
+  rotate: false
+  xy: 80, 2
+  size: 48, 53
+  orig: 50, 55
+  offset: 1, 1
+  index: -1
+zuopiaodai
+  rotate: false
+  xy: 389, 19
+  size: 130, 120
+  orig: 132, 122
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 15
+  size: 76, 80
+  orig: 78, 82
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,69 @@
+
+yd_mf_h.png
+size: 230,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sw_1_q1
+  rotate: false
+  xy: 2, 29
+  size: 74, 9
+  orig: 77, 12
+  offset: 2, 1
+  index: -1
+sw_1_q11
+  rotate: false
+  xy: 154, 29
+  size: 74, 9
+  orig: 77, 12
+  offset: 2, 1
+  index: -1
+sw_1_q12
+  rotate: false
+  xy: 78, 29
+  size: 74, 9
+  orig: 77, 12
+  offset: 2, 1
+  index: -1
+sw_1_q2
+  rotate: false
+  xy: 2, 16
+  size: 74, 11
+  orig: 77, 13
+  offset: 2, 1
+  index: -1
+sw_1_q21
+  rotate: false
+  xy: 154, 16
+  size: 74, 11
+  orig: 77, 13
+  offset: 2, 1
+  index: -1
+sw_1_q22
+  rotate: false
+  xy: 78, 16
+  size: 74, 11
+  orig: 77, 13
+  offset: 2, 1
+  index: -1
+sw_1_q3
+  rotate: false
+  xy: 2, 2
+  size: 74, 12
+  orig: 77, 14
+  offset: 2, 1
+  index: -1
+sw_1_q31
+  rotate: false
+  xy: 154, 2
+  size: 74, 12
+  orig: 77, 14
+  offset: 2, 1
+  index: -1
+sw_1_q32
+  rotate: false
+  xy: 78, 2
+  size: 74, 12
+  orig: 77, 14
+  offset: 2, 1
+  index: -1

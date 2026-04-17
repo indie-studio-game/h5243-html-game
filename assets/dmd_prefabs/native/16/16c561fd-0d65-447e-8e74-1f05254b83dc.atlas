@@ -1,0 +1,139 @@
+
+demon_demonbox.png
+size: 200,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic0
+  rotate: false
+  xy: 2, 266
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+pic1
+  rotate: false
+  xy: 101, 266
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+pic10
+  rotate: false
+  xy: 2, 85
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic11
+  rotate: false
+  xy: 101, 77
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic12
+  rotate: false
+  xy: 2, 60
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic13
+  rotate: false
+  xy: 101, 52
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic14
+  rotate: false
+  xy: 2, 35
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic15
+  rotate: false
+  xy: 101, 27
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic16
+  rotate: false
+  xy: 2, 10
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic17
+  rotate: false
+  xy: 101, 2
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic18
+  rotate: false
+  xy: 2, 135
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+pic2
+  rotate: false
+  xy: 101, 210
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+pic3
+  rotate: false
+  xy: 2, 210
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+pic4
+  rotate: false
+  xy: 2, 161
+  size: 97, 47
+  orig: 97, 47
+  offset: 0, 0
+  index: -1
+pic5
+  rotate: false
+  xy: 101, 178
+  size: 97, 30
+  orig: 97, 30
+  offset: 0, 0
+  index: -1
+pic6
+  rotate: false
+  xy: 101, 152
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+pic7
+  rotate: false
+  xy: 101, 127
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic8
+  rotate: false
+  xy: 2, 110
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+pic9
+  rotate: false
+  xy: 101, 102
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1

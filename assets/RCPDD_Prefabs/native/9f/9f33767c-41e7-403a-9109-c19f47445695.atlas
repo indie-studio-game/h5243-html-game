@@ -1,0 +1,27 @@
+
+pd_get.png
+size: 234,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoguang
+  rotate: false
+  xy: 132, 42
+  size: 100, 98
+  orig: 106, 105
+  offset: 3, 4
+  index: -1
+dianguang
+  rotate: false
+  xy: 132, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+gq_c
+  rotate: false
+  xy: 2, 12
+  size: 128, 128
+  orig: 142, 142
+  offset: 7, 7
+  index: -1

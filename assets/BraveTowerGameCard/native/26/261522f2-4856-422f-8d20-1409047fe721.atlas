@@ -1,0 +1,97 @@
+
+skill_16.png
+size: 804,804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle_texture_00000_0000_particle_texture_00000
+  rotate: false
+  xy: 553, 529
+  size: 23, 22
+  orig: 277, 270
+  offset: 127, 127
+  index: -1
+particle_texture_00000_0001_particle_texture_00012
+  rotate: false
+  xy: 269, 260
+  size: 270, 263
+  orig: 277, 270
+  offset: 4, 2
+  index: -1
+particle_texture_00000_0002_particle_texture_00011
+  rotate: true
+  xy: 2, 254
+  size: 276, 265
+  orig: 277, 270
+  offset: 0, 1
+  index: -1
+particle_texture_00000_0003_particle_texture_00010
+  rotate: false
+  xy: 2, 532
+  size: 277, 270
+  orig: 277, 270
+  offset: 0, 0
+  index: -1
+particle_texture_00000_0004_particle_texture_00009
+  rotate: true
+  xy: 281, 525
+  size: 277, 270
+  orig: 277, 270
+  offset: 0, 0
+  index: -1
+particle_texture_00000_0005_particle_texture_00008
+  rotate: true
+  xy: 541, 262
+  size: 261, 258
+  orig: 277, 270
+  offset: 6, 6
+  index: -1
+particle_texture_00000_0006_particle_texture_00007
+  rotate: false
+  xy: 553, 553
+  size: 249, 249
+  orig: 277, 270
+  offset: 12, 13
+  index: -1
+particle_texture_00000_0007_particle_texture_00006
+  rotate: false
+  xy: 541, 27
+  size: 236, 233
+  orig: 277, 270
+  offset: 19, 22
+  index: -1
+particle_texture_00000_0008_particle_texture_00005
+  rotate: false
+  xy: 269, 65
+  size: 192, 193
+  orig: 277, 270
+  offset: 39, 40
+  index: -1
+particle_texture_00000_0009_particle_texture_00004
+  rotate: false
+  xy: 2, 148
+  size: 104, 104
+  orig: 277, 270
+  offset: 86, 85
+  index: -1
+particle_texture_00000_0010_particle_texture_00003
+  rotate: false
+  xy: 2, 73
+  size: 73, 73
+  orig: 277, 270
+  offset: 102, 102
+  index: -1
+particle_texture_00000_0011_particle_texture_00002
+  rotate: false
+  xy: 77, 93
+  size: 53, 53
+  orig: 277, 270
+  offset: 112, 112
+  index: -1
+particle_texture_00000_0012_particle_texture_00001
+  rotate: false
+  xy: 108, 222
+  size: 30, 30
+  orig: 277, 270
+  offset: 123, 123
+  index: -1

@@ -1,0 +1,146 @@
+
+pd_explode.png
+size: 995,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 596, 209
+  size: 44, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 953, 352
+  size: 36, 44
+  orig: 39, 47
+  offset: 2, 1
+  index: -1
+3
+  rotate: true
+  xy: 804, 4
+  size: 69, 61
+  orig: 71, 63
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 868, 2
+  size: 95, 86
+  orig: 97, 88
+  offset: 1, 2
+  index: -1
+5
+  rotate: false
+  xy: 868, 99
+  size: 118, 124
+  orig: 120, 126
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 726, 17
+  size: 76, 56
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 596, 255
+  size: 78, 92
+  orig: 80, 94
+  offset: 1, 1
+  index: -1
+b9_skill_hit_00
+  rotate: false
+  xy: 779, 225
+  size: 172, 171
+  orig: 188, 186
+  offset: 8, 8
+  index: -1
+b9_skill_hit_01
+  rotate: false
+  xy: 416, 167
+  size: 178, 180
+  orig: 188, 186
+  offset: 4, 3
+  index: -1
+b9_skill_hit_02
+  rotate: false
+  xy: 416, 349
+  size: 181, 180
+  orig: 188, 186
+  offset: 4, 4
+  index: -1
+b9_skill_hit_03
+  rotate: false
+  xy: 599, 351
+  size: 178, 178
+  orig: 188, 186
+  offset: 5, 4
+  index: -1
+b9_skill_hit_04
+  rotate: false
+  xy: 416, 5
+  size: 165, 160
+  orig: 188, 186
+  offset: 13, 13
+  index: -1
+b9_skill_hit_05
+  rotate: false
+  xy: 583, 17
+  size: 141, 148
+  orig: 188, 186
+  offset: 32, 17
+  index: -1
+b9_skill_hit_06
+  rotate: false
+  xy: 726, 75
+  size: 140, 148
+  orig: 188, 186
+  offset: 33, 17
+  index: -1
+b9_skill_hit_07
+  rotate: false
+  xy: 132, 14
+  size: 127, 118
+  orig: 188, 186
+  offset: 33, 39
+  index: -1
+b9_skill_hit_08
+  rotate: false
+  xy: 261, 14
+  size: 125, 118
+  orig: 188, 186
+  offset: 33, 39
+  index: -1
+dianguang
+  rotate: false
+  xy: 596, 169
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+gq_c
+  rotate: false
+  xy: 2, 4
+  size: 128, 128
+  orig: 142, 142
+  offset: 7, 7
+  index: -1
+quan
+  rotate: false
+  xy: 2, 134
+  size: 412, 395
+  orig: 424, 424
+  offset: 4, 13
+  index: -1
+vipunlocked5
+  rotate: false
+  xy: 779, 398
+  size: 214, 131
+  orig: 218, 133
+  offset: 2, 1
+  index: -1

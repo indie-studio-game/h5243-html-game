@@ -1,0 +1,69 @@
+
+slxz_slz.png
+size: 521,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 96, 54
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+longzhu_1
+  rotate: true
+  xy: 80, 106
+  size: 61, 53
+  orig: 64, 55
+  offset: 2, 1
+  index: -1
+longzhu_2
+  rotate: true
+  xy: 2, 85
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+longzhu_3
+  rotate: false
+  xy: 2, 33
+  size: 92, 50
+  orig: 94, 53
+  offset: 1, 1
+  index: -1
+longzhu_4
+  rotate: true
+  xy: 135, 124
+  size: 43, 41
+  orig: 45, 43
+  offset: 1, 1
+  index: -1
+longzhu_5
+  rotate: false
+  xy: 2, 169
+  size: 152, 170
+  orig: 155, 173
+  offset: 2, 1
+  index: -1
+longzhu_6
+  rotate: true
+  xy: 30, 6
+  size: 25, 24
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+longzhu_7
+  rotate: true
+  xy: 2, 2
+  size: 29, 26
+  orig: 32, 29
+  offset: 2, 2
+  index: -1
+longzhu_8
+  rotate: false
+  xy: 2, 341
+  size: 178, 178
+  orig: 186, 186
+  offset: 4, 4
+  index: -1

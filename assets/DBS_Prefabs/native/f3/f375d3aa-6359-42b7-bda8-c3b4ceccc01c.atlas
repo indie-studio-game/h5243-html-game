@@ -1,0 +1,69 @@
+
+zdl_czhit.png
+size: 196,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/cz
+  rotate: false
+  xy: 135, 98
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+imgers/guangban_202
+  rotate: false
+  xy: 48, 2
+  size: 94, 94
+  orig: 106, 105
+  offset: 6, 6
+  index: -1
+imgers/t
+  rotate: false
+  xy: 2, 115
+  size: 111, 61
+  orig: 115, 65
+  offset: 2, 2
+  index: -1
+imgers/z3-xj_00000
+  rotate: true
+  xy: 115, 118
+  size: 58, 18
+  orig: 161, 50
+  offset: 95, 16
+  index: -1
+imgers/z3-xj_00001
+  rotate: false
+  xy: 2, 178
+  size: 120, 38
+  orig: 161, 50
+  offset: 35, 7
+  index: -1
+imgers/z3-xj_00002
+  rotate: false
+  xy: 2, 218
+  size: 136, 43
+  orig: 161, 50
+  offset: 14, 7
+  index: -1
+imgers/z3-xj_00003
+  rotate: true
+  xy: 140, 141
+  size: 120, 45
+  orig: 161, 50
+  offset: 10, 1
+  index: -1
+imgers/z3-xj_00004
+  rotate: true
+  xy: 2, 2
+  size: 111, 44
+  orig: 161, 50
+  offset: 5, 2
+  index: -1
+imgers/z3-xj_00005
+  rotate: true
+  xy: 144, 3
+  size: 93, 43
+  orig: 161, 50
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,69 @@
+
+tfccp_bq.png
+size: 703,605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/qh_tx10
+  rotate: true
+  xy: 469, 2
+  size: 201, 230
+  orig: 219, 253
+  offset: 8, 12
+  index: -1
+imgers/qh_tx2
+  rotate: true
+  xy: 235, 405
+  size: 198, 231
+  orig: 219, 253
+  offset: 10, 13
+  index: -1
+imgers/qh_tx3
+  rotate: true
+  xy: 468, 405
+  size: 198, 233
+  orig: 219, 253
+  offset: 10, 13
+  index: -1
+imgers/qh_tx4
+  rotate: true
+  xy: 2, 406
+  size: 197, 231
+  orig: 219, 253
+  offset: 11, 12
+  index: -1
+imgers/qh_tx5
+  rotate: true
+  xy: 2, 206
+  size: 198, 229
+  orig: 219, 253
+  offset: 11, 13
+  index: -1
+imgers/qh_tx6
+  rotate: true
+  xy: 233, 205
+  size: 198, 228
+  orig: 219, 253
+  offset: 10, 12
+  index: -1
+imgers/qh_tx7
+  rotate: true
+  xy: 463, 205
+  size: 198, 229
+  orig: 219, 253
+  offset: 10, 12
+  index: -1
+imgers/qh_tx8
+  rotate: true
+  xy: 234, 4
+  size: 199, 233
+  orig: 219, 253
+  offset: 9, 11
+  index: -1
+imgers/qh_tx9
+  rotate: true
+  xy: 2, 4
+  size: 199, 230
+  orig: 219, 253
+  offset: 9, 13
+  index: -1

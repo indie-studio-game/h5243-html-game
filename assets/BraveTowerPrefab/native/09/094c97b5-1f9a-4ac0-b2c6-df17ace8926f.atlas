@@ -1,0 +1,139 @@
+
+yz_ck_kpdh.png
+size: 718,718
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yj_star
+  rotate: false
+  xy: 314, 91
+  size: 41, 43
+  orig: 44, 47
+  offset: 1, 2
+  index: -1
+zh2_tx1
+  rotate: true
+  xy: 560, 183
+  size: 167, 139
+  orig: 187, 151
+  offset: 6, 4
+  index: -1
+zh2_tx2
+  rotate: true
+  xy: 570, 352
+  size: 177, 146
+  orig: 187, 151
+  offset: 2, 2
+  index: -1
+zh2_tx3
+  rotate: false
+  xy: 380, 232
+  size: 178, 150
+  orig: 187, 151
+  offset: 2, 0
+  index: -1
+zh2_tx4
+  rotate: false
+  xy: 194, 565
+  size: 183, 151
+  orig: 187, 151
+  offset: 0, 0
+  index: -1
+zh2_tx5
+  rotate: false
+  xy: 194, 414
+  size: 183, 149
+  orig: 187, 151
+  offset: 1, 1
+  index: -1
+zh2_tx6
+  rotate: true
+  xy: 570, 531
+  size: 185, 146
+  orig: 187, 151
+  offset: 1, 1
+  index: -1
+zh2_tx7
+  rotate: false
+  xy: 380, 384
+  size: 187, 142
+  orig: 187, 151
+  offset: 0, 2
+  index: -1
+zh2_tx8
+  rotate: false
+  xy: 2, 3
+  size: 185, 130
+  orig: 187, 151
+  offset: 1, 1
+  index: -1
+zh_guang
+  rotate: false
+  xy: 559, 9
+  size: 136, 172
+  orig: 140, 176
+  offset: 2, 2
+  index: -1
+zh_guang1
+  rotate: false
+  xy: 189, 10
+  size: 123, 123
+  orig: 131, 131
+  offset: 4, 4
+  index: -1
+zh_guang2
+  rotate: true
+  xy: 380, 54
+  size: 176, 177
+  orig: 177, 177
+  offset: 1, 0
+  index: -1
+zh_star
+  rotate: false
+  xy: 314, 63
+  size: 26, 26
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+zh_tx1
+  rotate: false
+  xy: 191, 136
+  size: 187, 191
+  orig: 197, 197
+  offset: 2, 3
+  index: -1
+zh_tx6
+  rotate: false
+  xy: 191, 136
+  size: 187, 191
+  orig: 197, 197
+  offset: 2, 3
+  index: -1
+zh_tx2
+  rotate: false
+  xy: 380, 528
+  size: 188, 188
+  orig: 197, 197
+  offset: 2, 3
+  index: -1
+zh_tx3
+  rotate: false
+  xy: 2, 329
+  size: 190, 192
+  orig: 197, 197
+  offset: 2, 2
+  index: -1
+zh_tx4
+  rotate: false
+  xy: 2, 523
+  size: 190, 193
+  orig: 197, 197
+  offset: 2, 2
+  index: -1
+zh_tx5
+  rotate: false
+  xy: 2, 135
+  size: 187, 192
+  orig: 197, 197
+  offset: 2, 2
+  index: -1

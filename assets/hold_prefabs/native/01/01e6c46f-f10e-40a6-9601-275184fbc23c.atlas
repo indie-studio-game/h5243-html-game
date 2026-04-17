@@ -1,0 +1,55 @@
+
+djdh_14.png
+size: 178,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: false
+  xy: 81, 83
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 124, 99
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 2, 2
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 66
+  size: 77, 98
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 46, 14
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 114, 2
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 124, 48
+  size: 49, 50
+  orig: 50, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+demon_qianghuo.png
+size: 354,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/24_atk1
+  rotate: false
+  xy: 2, 2
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+imgers/24_atk2
+  rotate: false
+  xy: 90, 2
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+imgers/24_atk3
+  rotate: false
+  xy: 178, 2
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+imgers/24_atk4
+  rotate: false
+  xy: 266, 2
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1

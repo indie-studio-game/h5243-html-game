@@ -1,0 +1,69 @@
+
+djdh_6.png
+size: 326,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pibo
+  rotate: true
+  xy: 155, 177
+  size: 118, 88
+  orig: 120, 88
+  offset: 1, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 2, 108
+  size: 151, 187
+  orig: 154, 188
+  offset: 0, 1
+  index: -1
+tou
+  rotate: true
+  xy: 138, 7
+  size: 99, 128
+  orig: 104, 133
+  offset: 3, 2
+  index: -1
+tui
+  rotate: true
+  xy: 2, 2
+  size: 104, 134
+  orig: 104, 136
+  offset: 0, 1
+  index: -1
+weibo
+  rotate: false
+  xy: 155, 110
+  size: 104, 65
+  orig: 106, 65
+  offset: 1, 0
+  index: -1
+youshouhou
+  rotate: true
+  xy: 245, 193
+  size: 18, 52
+  orig: 18, 52
+  offset: 0, 0
+  index: -1
+youshouqian
+  rotate: false
+  xy: 261, 112
+  size: 47, 79
+  orig: 48, 80
+  offset: 1, 1
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 268, 17
+  size: 37, 93
+  orig: 38, 94
+  offset: 0, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 245, 213
+  size: 82, 79
+  orig: 83, 86
+  offset: 0, 0
+  index: -1

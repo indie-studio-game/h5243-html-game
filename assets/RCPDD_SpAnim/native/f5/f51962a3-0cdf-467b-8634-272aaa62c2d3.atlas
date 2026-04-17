@@ -1,0 +1,41 @@
+
+djdh_13.png
+size: 153,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic0
+  rotate: true
+  xy: 91, 5
+  size: 46, 49
+  orig: 48, 51
+  offset: 1, 1
+  index: -1
+pic1
+  rotate: false
+  xy: 99, 53
+  size: 52, 90
+  orig: 52, 91
+  offset: 0, 1
+  index: -1
+pic2
+  rotate: true
+  xy: 2, 75
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+pic3
+  rotate: true
+  xy: 2, 2
+  size: 35, 68
+  orig: 36, 68
+  offset: 1, 0
+  index: -1
+pic4
+  rotate: true
+  xy: 2, 39
+  size: 34, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1

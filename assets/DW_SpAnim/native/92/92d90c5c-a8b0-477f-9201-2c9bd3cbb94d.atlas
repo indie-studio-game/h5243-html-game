@@ -1,0 +1,111 @@
+
+cctf_bullte_jt.png
+size: 879,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/ce
+  rotate: true
+  xy: 2, 44
+  size: 62, 162
+  orig: 64, 165
+  offset: 1, 2
+  index: -1
+imgers/xz
+  rotate: true
+  xy: 166, 52
+  size: 54, 166
+  orig: 56, 167
+  offset: 1, 1
+  index: -1
+imgers/zd_00000
+  rotate: false
+  xy: 438, 56
+  size: 98, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00001
+  rotate: false
+  xy: 482, 4
+  size: 98, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00002
+  rotate: false
+  xy: 179, 2
+  size: 99, 48
+  orig: 112, 55
+  offset: 10, 3
+  index: -1
+imgers/zd_00003
+  rotate: false
+  xy: 582, 4
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00004
+  rotate: false
+  xy: 638, 56
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00005
+  rotate: false
+  xy: 681, 4
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00006
+  rotate: false
+  xy: 280, 2
+  size: 97, 48
+  orig: 112, 55
+  offset: 11, 3
+  index: -1
+imgers/zd_00007
+  rotate: false
+  xy: 737, 56
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00008
+  rotate: false
+  xy: 538, 56
+  size: 98, 50
+  orig: 112, 55
+  offset: 10, 2
+  index: -1
+imgers/zd_00009
+  rotate: false
+  xy: 780, 4
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00010
+  rotate: false
+  xy: 379, 5
+  size: 101, 49
+  orig: 112, 55
+  offset: 7, 2
+  index: -1
+imgers/zd_00011
+  rotate: false
+  xy: 334, 56
+  size: 102, 50
+  orig: 112, 55
+  offset: 7, 2
+  index: -1
+imgers/zx
+  rotate: true
+  xy: 2, 11
+  size: 31, 175
+  orig: 33, 177
+  offset: 1, 1
+  index: -1

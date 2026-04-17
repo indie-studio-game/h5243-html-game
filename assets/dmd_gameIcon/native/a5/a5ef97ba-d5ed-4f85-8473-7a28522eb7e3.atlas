@@ -1,0 +1,62 @@
+
+demon_gun.png
+size: 1872,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/q1
+  rotate: true
+  xy: 1759, 356
+  size: 181, 111
+  orig: 181, 111
+  offset: 0, 0
+  index: -1
+imgers/q_4
+  rotate: false
+  xy: 1587, 2
+  size: 170, 535
+  orig: 170, 535
+  offset: 0, 0
+  index: -1
+imgers/q_5
+  rotate: false
+  xy: 2, 319
+  size: 532, 725
+  orig: 532, 725
+  offset: 0, 0
+  index: -1
+imgers/q_6
+  rotate: false
+  xy: 536, 483
+  size: 609, 561
+  orig: 609, 561
+  offset: 0, 0
+  index: -1
+imgers/q_7
+  rotate: false
+  xy: 1147, 539
+  size: 660, 505
+  orig: 660, 505
+  offset: 0, 0
+  index: -1
+imgers/q_8
+  rotate: false
+  xy: 536, 18
+  size: 689, 463
+  orig: 689, 463
+  offset: 0, 0
+  index: -1
+imgers/sq
+  rotate: false
+  xy: 1227, 32
+  size: 358, 505
+  orig: 358, 505
+  offset: 0, 0
+  index: -1
+imgers/sq2
+  rotate: true
+  xy: 2, 45
+  size: 272, 515
+  orig: 272, 515
+  offset: 0, 0
+  index: -1

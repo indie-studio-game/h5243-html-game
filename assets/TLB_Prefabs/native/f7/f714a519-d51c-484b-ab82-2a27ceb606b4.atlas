@@ -1,0 +1,62 @@
+
+tfccp_ice.png
+size: 383,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/b
+  rotate: true
+  xy: 2, 262
+  size: 233, 285
+  orig: 242, 293
+  offset: 8, 8
+  index: -1
+imgers/fog_00
+  rotate: true
+  xy: 2, 132
+  size: 128, 125
+  orig: 150, 150
+  offset: 10, 14
+  index: -1
+imgers/fog_01
+  rotate: true
+  xy: 2, 2
+  size: 128, 125
+  orig: 150, 150
+  offset: 11, 14
+  index: -1
+imgers/fog_02
+  rotate: true
+  xy: 257, 133
+  size: 127, 123
+  orig: 150, 150
+  offset: 12, 17
+  index: -1
+imgers/fog_03
+  rotate: false
+  xy: 129, 136
+  size: 126, 124
+  orig: 150, 150
+  offset: 13, 16
+  index: -1
+imgers/fog_04
+  rotate: false
+  xy: 129, 10
+  size: 125, 124
+  orig: 150, 150
+  offset: 13, 16
+  index: -1
+imgers/fog_05
+  rotate: false
+  xy: 256, 7
+  size: 124, 124
+  orig: 150, 150
+  offset: 13, 16
+  index: -1
+imgers/ks-xj_00000
+  rotate: true
+  xy: 289, 400
+  size: 95, 92
+  orig: 100, 100
+  offset: 4, 5
+  index: -1

@@ -1,0 +1,209 @@
+
+hdfx_gx.png
+size: 961,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/cy_zt_fh_00
+  rotate: true
+  xy: 714, 21
+  size: 26, 76
+  orig: 194, 260
+  offset: 83, 54
+  index: -1
+imgers/cy_zt_fh_01
+  rotate: true
+  xy: 771, 228
+  size: 26, 177
+  orig: 194, 260
+  offset: 83, 39
+  index: -1
+imgers/cy_zt_fh_02
+  rotate: true
+  xy: 714, 49
+  size: 26, 194
+  orig: 194, 260
+  offset: 83, 37
+  index: -1
+imgers/cy_zt_fh_03
+  rotate: true
+  xy: 515, 220
+  size: 28, 202
+  orig: 194, 260
+  offset: 82, 37
+  index: -1
+imgers/cy_zt_fh_04
+  rotate: true
+  xy: 259, 2
+  size: 34, 202
+  orig: 194, 260
+  offset: 79, 37
+  index: -1
+imgers/cy_zt_fh_05
+  rotate: true
+  xy: 719, 182
+  size: 44, 201
+  orig: 194, 260
+  offset: 74, 37
+  index: -1
+imgers/cy_zt_fh_06
+  rotate: false
+  xy: 894, 256
+  size: 65, 198
+  orig: 194, 260
+  offset: 64, 38
+  index: -1
+imgers/cy_zt_fh_07
+  rotate: true
+  xy: 514, 13
+  size: 85, 198
+  orig: 194, 260
+  offset: 54, 36
+  index: -1
+imgers/cy_zt_fh_08
+  rotate: true
+  xy: 716, 77
+  size: 103, 197
+  orig: 194, 260
+  offset: 45, 36
+  index: -1
+imgers/cy_zt_fh_09
+  rotate: true
+  xy: 514, 100
+  size: 118, 200
+  orig: 194, 260
+  offset: 38, 31
+  index: -1
+imgers/cy_zt_fh_10
+  rotate: false
+  xy: 515, 250
+  size: 126, 204
+  orig: 194, 260
+  offset: 34, 27
+  index: -1
+imgers/cy_zt_fh_11
+  rotate: false
+  xy: 130, 29
+  size: 127, 208
+  orig: 194, 260
+  offset: 33, 23
+  index: -1
+imgers/cy_zt_fh_12
+  rotate: false
+  xy: 130, 239
+  size: 127, 215
+  orig: 194, 260
+  offset: 33, 16
+  index: -1
+imgers/cy_zt_fh_13
+  rotate: false
+  xy: 2, 13
+  size: 126, 219
+  orig: 194, 260
+  offset: 34, 12
+  index: -1
+imgers/cy_zt_fh_14
+  rotate: false
+  xy: 2, 234
+  size: 126, 220
+  orig: 194, 260
+  offset: 34, 11
+  index: -1
+imgers/cy_zt_fh_15
+  rotate: false
+  xy: 259, 246
+  size: 126, 208
+  orig: 194, 260
+  offset: 34, 23
+  index: -1
+imgers/cy_zt_fh_16
+  rotate: false
+  xy: 643, 250
+  size: 126, 204
+  orig: 194, 260
+  offset: 34, 27
+  index: -1
+imgers/cy_zt_fh_17
+  rotate: false
+  xy: 259, 38
+  size: 126, 206
+  orig: 194, 260
+  offset: 34, 25
+  index: -1
+imgers/cy_zt_fh_18
+  rotate: false
+  xy: 387, 248
+  size: 126, 206
+  orig: 194, 260
+  offset: 35, 24
+  index: -1
+imgers/cy_zt_fh_19
+  rotate: false
+  xy: 387, 40
+  size: 125, 206
+  orig: 194, 260
+  offset: 36, 23
+  index: -1
+imgers/cy_zt_fh_20
+  rotate: false
+  xy: 771, 256
+  size: 121, 198
+  orig: 194, 260
+  offset: 38, 27
+  index: -1
+imgers/cy_zt_fh_21
+  rotate: true
+  xy: 915, 112
+  size: 63, 41
+  orig: 194, 260
+  offset: 64, 91
+  index: -1
+imgers/cy_zt_fh_22
+  rotate: false
+  xy: 792, 8
+  size: 61, 39
+  orig: 194, 260
+  offset: 65, 94
+  index: -1
+imgers/cy_zt_fh_23
+  rotate: true
+  xy: 922, 177
+  size: 49, 37
+  orig: 194, 260
+  offset: 66, 97
+  index: -1
+imgers/cy_zt_fh_24
+  rotate: false
+  xy: 463, 2
+  size: 49, 36
+  orig: 194, 260
+  offset: 66, 99
+  index: -1
+imgers/cy_zt_fh_25
+  rotate: false
+  xy: 855, 13
+  size: 47, 34
+  orig: 194, 260
+  offset: 67, 102
+  index: -1
+imgers/cy_zt_fh_26
+  rotate: true
+  xy: 915, 64
+  size: 46, 32
+  orig: 194, 260
+  offset: 68, 104
+  index: -1
+imgers/cy_zt_fh_27
+  rotate: false
+  xy: 915, 177
+  size: 3, 3
+  orig: 194, 260
+  offset: 83, 134
+  index: -1
+imgers/cy_zt_fh_28
+  rotate: false
+  xy: 716, 217
+  size: 1, 1
+  orig: 194, 260
+  offset: 84, 136
+  index: -1

@@ -1,0 +1,27 @@
+
+yd_mf_s.png
+size: 30,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sw_1_z1
+  rotate: false
+  xy: 2, 2
+  size: 8, 68
+  orig: 9, 69
+  offset: 0, 1
+  index: -1
+sw_1_z2
+  rotate: false
+  xy: 12, 3
+  size: 7, 67
+  orig: 9, 69
+  offset: 1, 1
+  index: -1
+sw_1_z3
+  rotate: false
+  xy: 21, 3
+  size: 7, 67
+  orig: 9, 69
+  offset: 1, 1
+  index: -1

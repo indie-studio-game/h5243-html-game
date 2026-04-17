@@ -1,0 +1,13 @@
+
+tfccp_ldyw.png
+size: 219,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yw_00000
+  rotate: false
+  xy: 2, 2
+  size: 215, 229
+  orig: 228, 236
+  offset: 9, 4
+  index: -1

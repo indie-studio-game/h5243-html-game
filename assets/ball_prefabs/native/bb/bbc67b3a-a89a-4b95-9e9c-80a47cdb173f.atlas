@@ -1,0 +1,314 @@
+
+dragon_mj_jiban.png
+size: 4045,3537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_01
+  rotate: false
+  xy: 3741, 1500
+  size: 286, 282
+  orig: 750, 1334
+  offset: 250, 533
+  index: -1
+baozha/baozha_02
+  rotate: true
+  xy: 3379, 567
+  size: 395, 370
+  orig: 750, 1334
+  offset: 199, 498
+  index: -1
+baozha/baozha_03
+  rotate: true
+  xy: 754, 483
+  size: 550, 494
+  orig: 750, 1334
+  offset: 128, 432
+  index: -1
+baozha/baozha_04
+  rotate: true
+  xy: 2685, 561
+  size: 718, 692
+  orig: 750, 1334
+  offset: 32, 342
+  index: -1
+baozha/baozha_05
+  rotate: true
+  xy: 1197, 2785
+  size: 750, 756
+  orig: 750, 1334
+  offset: 0, 304
+  index: -1
+baozha/baozha_06
+  rotate: false
+  xy: 2, 1991
+  size: 750, 768
+  orig: 750, 1334
+  offset: 0, 299
+  index: -1
+baozha/baozha_07
+  rotate: false
+  xy: 2, 2761
+  size: 750, 774
+  orig: 750, 1334
+  offset: 0, 303
+  index: -1
+baozha/baozha_08
+  rotate: false
+  xy: 2, 1221
+  size: 750, 768
+  orig: 750, 1334
+  offset: 0, 307
+  index: -1
+baozha/baozha_09
+  rotate: false
+  xy: 1157, 1274
+  size: 750, 753
+  orig: 750, 1334
+  offset: 0, 320
+  index: -1
+baozha/baozha_10
+  rotate: true
+  xy: 1935, 2033
+  size: 750, 727
+  orig: 750, 1334
+  offset: 0, 335
+  index: -1
+baozha/baozha_11
+  rotate: true
+  xy: 2657, 1281
+  size: 750, 692
+  orig: 750, 1334
+  offset: 0, 345
+  index: -1
+baozha/baozha_12
+  rotate: true
+  xy: 2664, 2040
+  size: 743, 647
+  orig: 750, 1334
+  offset: 7, 363
+  index: -1
+baozha/baozha_13
+  rotate: false
+  xy: 3313, 2208
+  size: 730, 616
+  orig: 750, 1334
+  offset: 9, 384
+  index: -1
+guangquan/gq_1
+  rotate: true
+  xy: 2196, 28
+  size: 497, 481
+  orig: 750, 1334
+  offset: 125, 430
+  index: -1
+guangquan/gq_2
+  rotate: false
+  xy: 3346, 2875
+  size: 677, 660
+  orig: 750, 1334
+  offset: 35, 346
+  index: -1
+guangquan/gq_3
+  rotate: true
+  xy: 1955, 2785
+  size: 750, 722
+  orig: 750, 1334
+  offset: 0, 309
+  index: -1
+guangquan/gq_4
+  rotate: false
+  xy: 1183, 2029
+  size: 750, 754
+  orig: 750, 1334
+  offset: 0, 291
+  index: -1
+guangquan/gq_5
+  rotate: false
+  xy: 2, 455
+  size: 750, 764
+  orig: 750, 1334
+  offset: 0, 286
+  index: -1
+guangquan/gq_6
+  rotate: true
+  xy: 1909, 1277
+  size: 750, 746
+  orig: 750, 1334
+  offset: 0, 294
+  index: -1
+guangquan/gq_7
+  rotate: true
+  xy: 2679, 2826
+  size: 709, 665
+  orig: 750, 1334
+  offset: 36, 323
+  index: -1
+guangquan/gq_8
+  rotate: false
+  xy: 3560, 195
+  size: 384, 370
+  orig: 750, 1334
+  offset: 187, 492
+  index: -1
+leidian/1
+  rotate: false
+  xy: 2188, 1048
+  size: 69, 93
+  orig: 75, 95
+  offset: 3, 1
+  index: -1
+leidian/leidian_01
+  rotate: true
+  xy: 2081, 1048
+  size: 93, 105
+  orig: 750, 1334
+  offset: 259, 905
+  index: -1
+leidian/leidian_02
+  rotate: true
+  xy: 2081, 1143
+  size: 132, 267
+  orig: 750, 1334
+  offset: 232, 723
+  index: -1
+leidian/leidian_03
+  rotate: true
+  xy: 1136, 1036
+  size: 236, 473
+  orig: 750, 1334
+  offset: 190, 508
+  index: -1
+leidian/leidian_04
+  rotate: true
+  xy: 1611, 1047
+  size: 225, 468
+  orig: 750, 1334
+  offset: 193, 504
+  index: -1
+leidian/leidian_05
+  rotate: false
+  xy: 3771, 996
+  size: 253, 502
+  orig: 750, 1334
+  offset: 187, 466
+  index: -1
+leidian/leidian_06
+  rotate: false
+  xy: 754, 1488
+  size: 364, 499
+  orig: 750, 1334
+  offset: 126, 469
+  index: -1
+leidian/leidian_07
+  rotate: false
+  xy: 754, 1989
+  size: 401, 493
+  orig: 750, 1334
+  offset: 122, 475
+  index: -1
+leidian/leidian_08
+  rotate: false
+  xy: 2207, 560
+  size: 476, 486
+  orig: 750, 1334
+  offset: 101, 486
+  index: -1
+leidian/leidian_09
+  rotate: true
+  xy: 1724, 527
+  size: 518, 481
+  orig: 750, 1334
+  offset: 75, 495
+  index: -1
+leidian/leidian_10
+  rotate: false
+  xy: 1197, 5
+  size: 534, 476
+  orig: 750, 1334
+  offset: 57, 498
+  index: -1
+leidian/leidian_11
+  rotate: true
+  xy: 1250, 506
+  size: 528, 472
+  orig: 750, 1334
+  offset: 52, 502
+  index: -1
+leidian/leidian_12
+  rotate: true
+  xy: 1733, 2
+  size: 523, 461
+  orig: 750, 1334
+  offset: 47, 502
+  index: -1
+leidian/leidian_13
+  rotate: true
+  xy: 3122, 103
+  size: 456, 436
+  orig: 750, 1334
+  offset: 52, 513
+  index: -1
+leidian/leidian_14
+  rotate: true
+  xy: 2679, 101
+  size: 457, 441
+  orig: 750, 1334
+  offset: 50, 513
+  index: -1
+leidian/leidian_15
+  rotate: false
+  xy: 3351, 1784
+  size: 440, 422
+  orig: 750, 1334
+  offset: 56, 521
+  index: -1
+leidian/skill7_13
+  rotate: false
+  xy: 3379, 964
+  size: 390, 375
+  orig: 422, 387
+  offset: 16, 1
+  index: -1
+leidian/skill7_14
+  rotate: false
+  xy: 3351, 1341
+  size: 388, 441
+  orig: 404, 451
+  offset: 7, 1
+  index: -1
+leidian/skill7_15
+  rotate: false
+  xy: 754, 1035
+  size: 380, 451
+  orig: 422, 491
+  offset: 8, 35
+  index: -1
+leidian/skill7_16
+  rotate: true
+  xy: 2, 4
+  size: 449, 602
+  orig: 509, 620
+  offset: 18, 17
+  index: -1
+leidian/skill7_17
+  rotate: true
+  xy: 606, 4
+  size: 449, 589
+  orig: 489, 612
+  offset: 11, 22
+  index: -1
+leidian/skill7_18
+  rotate: false
+  xy: 754, 2985
+  size: 430, 550
+  orig: 467, 574
+  offset: 19, 23
+  index: -1
+leidian/skill7_19
+  rotate: false
+  xy: 754, 2484
+  size: 427, 499
+  orig: 457, 523
+  offset: 13, 23
+  index: -1

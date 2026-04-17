@@ -1,0 +1,153 @@
+
+tfccp_yw.png
+size: 2004,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/yw_10
+  rotate: false
+  xy: 2, 5
+  size: 319, 101
+  orig: 480, 180
+  offset: 88, 33
+  index: -1
+imgers/yw_11
+  rotate: false
+  xy: 323, 4
+  size: 341, 106
+  orig: 480, 180
+  offset: 75, 29
+  index: -1
+imgers/yw_12
+  rotate: false
+  xy: 666, 2
+  size: 361, 115
+  orig: 480, 180
+  offset: 67, 24
+  index: -1
+imgers/yw_13
+  rotate: true
+  xy: 1884, 169
+  size: 369, 118
+  orig: 480, 180
+  offset: 63, 22
+  index: -1
+imgers/yw_14
+  rotate: true
+  xy: 1762, 162
+  size: 376, 120
+  orig: 480, 180
+  offset: 59, 20
+  index: -1
+imgers/yw_15
+  rotate: true
+  xy: 1638, 157
+  size: 381, 122
+  orig: 480, 180
+  offset: 57, 19
+  index: -1
+imgers/yw_16
+  rotate: true
+  xy: 1514, 151
+  size: 387, 122
+  orig: 480, 180
+  offset: 54, 19
+  index: -1
+imgers/yw_17
+  rotate: false
+  xy: 1432, 17
+  size: 392, 122
+  orig: 480, 180
+  offset: 51, 19
+  index: -1
+imgers/yw_18
+  rotate: true
+  xy: 1389, 141
+  size: 397, 123
+  orig: 480, 180
+  offset: 48, 19
+  index: -1
+imgers/yw_19
+  rotate: false
+  xy: 1029, 2
+  size: 401, 123
+  orig: 480, 180
+  offset: 46, 19
+  index: -1
+imgers/yw_20
+  rotate: true
+  xy: 1265, 133
+  size: 405, 122
+  orig: 480, 180
+  offset: 45, 20
+  index: -1
+imgers/yw_21
+  rotate: true
+  xy: 1141, 129
+  size: 409, 122
+  orig: 480, 180
+  offset: 42, 20
+  index: -1
+imgers/yw_22
+  rotate: true
+  xy: 1017, 127
+  size: 411, 122
+  orig: 480, 180
+  offset: 41, 20
+  index: -1
+imgers/yw_23
+  rotate: true
+  xy: 892, 124
+  size: 414, 123
+  orig: 480, 180
+  offset: 40, 20
+  index: -1
+imgers/yw_24
+  rotate: true
+  xy: 767, 122
+  size: 416, 123
+  orig: 480, 180
+  offset: 39, 20
+  index: -1
+imgers/yw_25
+  rotate: true
+  xy: 640, 119
+  size: 419, 125
+  orig: 480, 180
+  offset: 38, 20
+  index: -1
+imgers/yw_26
+  rotate: true
+  xy: 513, 117
+  size: 421, 125
+  orig: 480, 180
+  offset: 37, 20
+  index: -1
+imgers/yw_27
+  rotate: true
+  xy: 386, 113
+  size: 425, 125
+  orig: 480, 180
+  offset: 36, 20
+  index: -1
+imgers/yw_28
+  rotate: true
+  xy: 258, 112
+  size: 426, 126
+  orig: 480, 180
+  offset: 35, 20
+  index: -1
+imgers/yw_29
+  rotate: true
+  xy: 130, 110
+  size: 428, 126
+  orig: 480, 180
+  offset: 34, 20
+  index: -1
+imgers/yw_30
+  rotate: true
+  xy: 2, 108
+  size: 430, 126
+  orig: 480, 180
+  offset: 33, 20
+  index: -1

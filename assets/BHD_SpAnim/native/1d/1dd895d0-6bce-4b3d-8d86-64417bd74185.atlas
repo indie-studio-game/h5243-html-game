@@ -1,0 +1,97 @@
+
+hdfs_bullte.png
+size: 461,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/ce
+  rotate: false
+  xy: 2, 7
+  size: 53, 149
+  orig: 54, 151
+  offset: 1, 1
+  index: -1
+imgers/zd_00000
+  rotate: false
+  xy: 161, 106
+  size: 98, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00001
+  rotate: false
+  xy: 261, 106
+  size: 98, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00002
+  rotate: false
+  xy: 160, 56
+  size: 99, 48
+  orig: 112, 55
+  offset: 10, 3
+  index: -1
+imgers/zd_00003
+  rotate: false
+  xy: 261, 54
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00004
+  rotate: false
+  xy: 360, 54
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00005
+  rotate: false
+  xy: 57, 3
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00006
+  rotate: false
+  xy: 160, 6
+  size: 97, 48
+  orig: 112, 55
+  offset: 11, 3
+  index: -1
+imgers/zd_00007
+  rotate: false
+  xy: 259, 2
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00008
+  rotate: false
+  xy: 361, 106
+  size: 98, 50
+  orig: 112, 55
+  offset: 10, 2
+  index: -1
+imgers/zd_00009
+  rotate: false
+  xy: 358, 2
+  size: 97, 50
+  orig: 112, 55
+  offset: 11, 2
+  index: -1
+imgers/zd_00010
+  rotate: false
+  xy: 57, 55
+  size: 101, 49
+  orig: 112, 55
+  offset: 7, 2
+  index: -1
+imgers/zd_00011
+  rotate: false
+  xy: 57, 106
+  size: 102, 50
+  orig: 112, 55
+  offset: 7, 2
+  index: -1

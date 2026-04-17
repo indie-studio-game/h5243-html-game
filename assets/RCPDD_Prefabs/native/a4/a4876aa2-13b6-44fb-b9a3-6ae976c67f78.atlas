@@ -1,0 +1,125 @@
+
+pd_shields.png
+size: 968,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/q_00
+  rotate: false
+  xy: 664, 289
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_01
+  rotate: false
+  xy: 360, 432
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 5
+  index: -1
+imgers/q_02
+  rotate: false
+  xy: 154, 74
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_03
+  rotate: false
+  xy: 816, 433
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_04
+  rotate: false
+  xy: 816, 290
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_05
+  rotate: false
+  xy: 360, 145
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_06
+  rotate: false
+  xy: 512, 145
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_07
+  rotate: false
+  xy: 360, 288
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 5
+  index: -1
+imgers/q_08
+  rotate: false
+  xy: 664, 146
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_09
+  rotate: false
+  xy: 512, 432
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 5
+  index: -1
+imgers/q_10
+  rotate: false
+  xy: 512, 288
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_11
+  rotate: false
+  xy: 816, 147
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_12
+  rotate: false
+  xy: 2, 73
+  size: 150, 143
+  orig: 150, 150
+  offset: 0, 5
+  index: -1
+imgers/q_13
+  rotate: false
+  xy: 306, 2
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/q_14
+  rotate: false
+  xy: 664, 432
+  size: 150, 142
+  orig: 150, 150
+  offset: 0, 5
+  index: -1
+imgers/q_15
+  rotate: false
+  xy: 458, 2
+  size: 150, 141
+  orig: 150, 150
+  offset: 0, 6
+  index: -1
+imgers/quan
+  rotate: false
+  xy: 2, 218
+  size: 356, 356
+  orig: 358, 358
+  offset: 1, 1
+  index: -1

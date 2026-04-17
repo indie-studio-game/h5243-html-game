@@ -1,0 +1,104 @@
+
+demon_prop.png
+size: 419,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/faj
+  rotate: true
+  xy: 225, 95
+  size: 58, 123
+  orig: 58, 123
+  offset: 0, 0
+  index: -1
+imgers/qz
+  rotate: true
+  xy: 99, 40
+  size: 49, 154
+  orig: 49, 154
+  offset: 0, 0
+  index: -1
+imgers/st
+  rotate: false
+  xy: 2, 30
+  size: 95, 123
+  orig: 95, 123
+  offset: 0, 0
+  index: -1
+imgers/yao
+  rotate: true
+  xy: 99, 91
+  size: 62, 124
+  orig: 62, 124
+  offset: 0, 0
+  index: -1
+imgers/you1
+  rotate: false
+  xy: 140, 3
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+imgers/you2
+  rotate: false
+  xy: 236, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+imgers/you3
+  rotate: true
+  xy: 255, 36
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+imgers/you4
+  rotate: false
+  xy: 350, 101
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+imgers/you5
+  rotate: false
+  xy: 350, 54
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+imgers/you6
+  rotate: true
+  xy: 308, 48
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+imgers/zt
+  rotate: true
+  xy: 2, 2
+  size: 26, 136
+  orig: 26, 136
+  offset: 0, 0
+  index: -1
+imgers/zuo1
+  rotate: true
+  xy: 308, 2
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+imgers/zuo2
+  rotate: false
+  xy: 188, 6
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+imgers/zuo3
+  rotate: true
+  xy: 349, 5
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1

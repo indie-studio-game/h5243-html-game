@@ -1,0 +1,69 @@
+
+djdh_16.png
+size: 226,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic0
+  rotate: false
+  xy: 117, 54
+  size: 49, 53
+  orig: 51, 55
+  offset: 1, 1
+  index: -1
+pic1
+  rotate: false
+  xy: 207, 2
+  size: 15, 19
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+pic2
+  rotate: true
+  xy: 173, 2
+  size: 19, 32
+  orig: 21, 34
+  offset: 1, 1
+  index: -1
+pic3
+  rotate: true
+  xy: 117, 5
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+pic4
+  rotate: false
+  xy: 168, 61
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+pic5
+  rotate: false
+  xy: 173, 23
+  size: 40, 36
+  orig: 42, 38
+  offset: 1, 1
+  index: -1
+pic6
+  rotate: true
+  xy: 2, 22
+  size: 85, 113
+  orig: 87, 115
+  offset: 1, 1
+  index: -1
+pic7
+  rotate: false
+  xy: 31, 7
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+pic8
+  rotate: true
+  xy: 2, 2
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1

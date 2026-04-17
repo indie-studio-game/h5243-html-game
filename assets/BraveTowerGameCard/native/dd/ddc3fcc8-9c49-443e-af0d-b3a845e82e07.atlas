@@ -1,0 +1,118 @@
+
+skill_5.png
+size: 1295,1295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jn5_tx1
+  rotate: false
+  xy: 336, 738
+  size: 319, 281
+  orig: 338, 316
+  offset: 3, 7
+  index: -1
+jn5_tx10
+  rotate: true
+  xy: 650, 433
+  size: 301, 311
+  orig: 338, 316
+  offset: 10, 5
+  index: -1
+jn5_tx11
+  rotate: true
+  xy: 52, 1237
+  size: 56, 60
+  orig: 69, 70
+  offset: 5, 5
+  index: -1
+jn5_tx12
+  rotate: true
+  xy: 114, 1231
+  size: 62, 66
+  orig: 69, 70
+  offset: 4, 2
+  index: -1
+jn5_tx13
+  rotate: true
+  xy: 251, 1226
+  size: 67, 68
+  orig: 69, 70
+  offset: 1, 0
+  index: -1
+jn5_tx14
+  rotate: false
+  xy: 321, 1225
+  size: 68, 68
+  orig: 69, 70
+  offset: 1, 2
+  index: -1
+jn5_tx15
+  rotate: false
+  xy: 182, 1230
+  size: 67, 63
+  orig: 69, 70
+  offset: 0, 6
+  index: -1
+jn5_tx16
+  rotate: true
+  xy: 2, 1248
+  size: 45, 48
+  orig: 69, 70
+  offset: 6, 6
+  index: -1
+jn5_tx2
+  rotate: false
+  xy: 2, 659
+  size: 328, 282
+  orig: 338, 316
+  offset: 0, 7
+  index: -1
+jn5_tx3
+  rotate: false
+  xy: 2, 943
+  size: 332, 280
+  orig: 338, 316
+  offset: 2, 10
+  index: -1
+jn5_tx4
+  rotate: false
+  xy: 657, 736
+  size: 312, 281
+  orig: 338, 316
+  offset: 25, 10
+  index: -1
+jn5_tx5
+  rotate: false
+  xy: 332, 450
+  size: 316, 286
+  orig: 338, 316
+  offset: 19, 12
+  index: -1
+jn5_tx6
+  rotate: true
+  xy: 391, 1021
+  size: 272, 300
+  orig: 338, 316
+  offset: 14, 8
+  index: -1
+jn5_tx7
+  rotate: true
+  xy: 693, 1019
+  size: 274, 311
+  orig: 338, 316
+  offset: 12, 1
+  index: -1
+jn5_tx8
+  rotate: true
+  xy: 971, 702
+  size: 282, 316
+  orig: 338, 316
+  offset: 11, 0
+  index: -1
+jn5_tx9
+  rotate: false
+  xy: 1006, 986
+  size: 287, 307
+  orig: 338, 316
+  offset: 14, 9
+  index: -1

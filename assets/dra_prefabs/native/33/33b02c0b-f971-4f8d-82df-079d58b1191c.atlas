@@ -1,0 +1,153 @@
+
+dragon_t.png
+size: 881,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_fa_1
+  rotate: false
+  xy: 823, 64
+  size: 56, 64
+  orig: 58, 66
+  offset: 1, 1
+  index: -1
+R_fa_1
+  rotate: true
+  xy: 584, 3
+  size: 51, 67
+  orig: 53, 69
+  offset: 1, 1
+  index: -1
+R_longxu_1
+  rotate: true
+  xy: 785, 33
+  size: 79, 36
+  orig: 81, 38
+  offset: 1, 1
+  index: -1
+dragon_by
+  rotate: false
+  xy: 420, 2
+  size: 121, 49
+  orig: 121, 52
+  offset: 0, 3
+  index: -1
+dragon_t
+  rotate: true
+  xy: 2, 2
+  size: 201, 226
+  orig: 201, 226
+  offset: 0, 0
+  index: -1
+dragon_xb
+  rotate: true
+  xy: 495, 67
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+dragon_yhx
+  rotate: true
+  xy: 574, 79
+  size: 124, 9
+  orig: 128, 9
+  offset: 0, 0
+  index: -1
+dragon_ymm
+  rotate: true
+  xy: 625, 61
+  size: 29, 56
+  orig: 32, 56
+  offset: 3, 0
+  index: -1
+dragon_ytf
+  rotate: false
+  xy: 729, 11
+  size: 54, 79
+  orig: 54, 80
+  offset: 0, 1
+  index: -1
+dragon_yy
+  rotate: false
+  xy: 574, 69
+  size: 7, 8
+  orig: 9, 10
+  offset: 1, 1
+  index: -1
+dragon_zy
+  rotate: false
+  xy: 574, 69
+  size: 7, 8
+  orig: 9, 10
+  offset: 1, 1
+  index: -1
+dragon_zf
+  rotate: false
+  xy: 730, 114
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+dragon_zhx
+  rotate: false
+  xy: 495, 56
+  size: 128, 9
+  orig: 128, 9
+  offset: 0, 0
+  index: -1
+dragon_zmm
+  rotate: false
+  xy: 823, 5
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+dragon_ztf
+  rotate: true
+  xy: 653, 2
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+eyes_1
+  rotate: true
+  xy: 585, 87
+  size: 116, 32
+  orig: 118, 34
+  offset: 1, 1
+  index: -1
+fa_1
+  rotate: true
+  xy: 810, 130
+  size: 73, 69
+  orig: 76, 71
+  offset: 1, 1
+  index: -1
+l_longxu_1
+  rotate: false
+  xy: 543, 2
+  size: 39, 52
+  orig: 42, 54
+  offset: 2, 1
+  index: -1
+st
+  rotate: true
+  xy: 420, 53
+  size: 150, 73
+  orig: 150, 73
+  offset: 0, 0
+  index: -1
+tou_1
+  rotate: false
+  xy: 230, 2
+  size: 188, 201
+  orig: 190, 203
+  offset: 1, 1
+  index: -1
+xiaba_1
+  rotate: true
+  xy: 619, 92
+  size: 111, 109
+  orig: 113, 111
+  offset: 1, 1
+  index: -1

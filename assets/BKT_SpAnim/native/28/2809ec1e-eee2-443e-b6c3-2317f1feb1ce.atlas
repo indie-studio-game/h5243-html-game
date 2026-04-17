@@ -1,0 +1,69 @@
+
+soilder_1.png
+size: 345,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_s
+  rotate: false
+  xy: 123, 8
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+bj_t
+  rotate: true
+  xy: 188, 2
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+bj_wq
+  rotate: false
+  xy: 2, 18
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+bj_ys
+  rotate: false
+  xy: 305, 3
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+bj_ysz
+  rotate: false
+  xy: 74, 6
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+bj_yt
+  rotate: true
+  xy: 305, 30
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+bj_zs
+  rotate: false
+  xy: 280, 7
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+bj_zt
+  rotate: false
+  xy: 241, 13
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 2, 4
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1

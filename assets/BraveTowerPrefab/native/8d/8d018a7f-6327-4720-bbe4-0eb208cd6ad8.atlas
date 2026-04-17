@@ -1,0 +1,69 @@
+
+yz_zd_boss.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_1
+  rotate: false
+  xy: 148, 341
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+boss_di
+  rotate: false
+  xy: 2, 94
+  size: 493, 245
+  orig: 499, 251
+  offset: 3, 3
+  index: -1
+boss_icon1
+  rotate: true
+  xy: 2, 484
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+boss_icon2
+  rotate: false
+  xy: 257, 438
+  size: 67, 57
+  orig: 67, 58
+  offset: 0, 1
+  index: -1
+boss_sp1
+  rotate: false
+  xy: 194, 441
+  size: 61, 54
+  orig: 66, 59
+  offset: 3, 3
+  index: -1
+boss_sp2
+  rotate: false
+  xy: 2, 387
+  size: 68, 59
+  orig: 72, 64
+  offset: 2, 3
+  index: -1
+boss_sp3
+  rotate: false
+  xy: 72, 383
+  size: 74, 63
+  orig: 80, 68
+  offset: 3, 3
+  index: -1
+boss_text1
+  rotate: false
+  xy: 326, 437
+  size: 163, 58
+  orig: 163, 58
+  offset: 0, 0
+  index: -1
+boss_text2
+  rotate: false
+  xy: 33, 448
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1

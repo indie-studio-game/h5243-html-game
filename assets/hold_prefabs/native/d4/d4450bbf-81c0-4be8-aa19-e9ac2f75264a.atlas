@@ -1,0 +1,90 @@
+
+weapon_1_bullet.png
+size: 332,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddsj_bing2_1
+  rotate: true
+  xy: 66, 19
+  size: 88, 54
+  orig: 110, 64
+  offset: 11, 1
+  index: -1
+ddsj_bing2_2
+  rotate: true
+  xy: 2, 2
+  size: 105, 62
+  orig: 110, 64
+  offset: 3, 1
+  index: -1
+ddsj_bing2_3
+  rotate: true
+  xy: 247, 115
+  size: 106, 62
+  orig: 110, 64
+  offset: 2, 1
+  index: -1
+ddsj_bing2_4
+  rotate: false
+  xy: 223, 45
+  size: 107, 60
+  orig: 110, 64
+  offset: 2, 3
+  index: -1
+gq
+  rotate: false
+  xy: 2, 345
+  size: 204, 205
+  orig: 241, 241
+  offset: 19, 19
+  index: -1
+paodan
+  rotate: true
+  xy: 167, 223
+  size: 95, 141
+  orig: 99, 146
+  offset: 2, 2
+  index: -1
+paodan1
+  rotate: true
+  xy: 122, 12
+  size: 93, 99
+  orig: 104, 111
+  offset: 6, 4
+  index: -1
+paodan2
+  rotate: false
+  xy: 2, 109
+  size: 124, 124
+  orig: 139, 139
+  offset: 7, 3
+  index: -1
+paodan3
+  rotate: false
+  xy: 128, 107
+  size: 117, 114
+  orig: 133, 128
+  offset: 9, 4
+  index: -1
+paodan4
+  rotate: false
+  xy: 208, 436
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+paodan5
+  rotate: false
+  xy: 208, 320
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+paodan6
+  rotate: false
+  xy: 2, 235
+  size: 163, 108
+  orig: 163, 108
+  offset: 0, 0
+  index: -1

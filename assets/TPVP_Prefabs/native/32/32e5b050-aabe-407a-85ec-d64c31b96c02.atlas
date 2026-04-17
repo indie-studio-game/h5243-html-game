@@ -1,0 +1,69 @@
+
+zp_js.png
+size: 613,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao/bao0001
+  rotate: false
+  xy: 522, 73
+  size: 69, 86
+  orig: 152, 182
+  offset: 42, 36
+  index: -1
+bao/bao0002
+  rotate: true
+  xy: 271, 2
+  size: 104, 138
+  orig: 152, 182
+  offset: 23, 21
+  index: -1
+bao/bao0003
+  rotate: false
+  xy: 410, 111
+  size: 109, 138
+  orig: 152, 182
+  offset: 20, 21
+  index: -1
+bao/bao0004
+  rotate: false
+  xy: 411, 8
+  size: 109, 101
+  orig: 152, 182
+  offset: 23, 38
+  index: -1
+bao/bao0005
+  rotate: true
+  xy: 522, 5
+  size: 66, 71
+  orig: 152, 182
+  offset: 42, 52
+  index: -1
+dianguang
+  rotate: false
+  xy: 521, 161
+  size: 88, 88
+  orig: 110, 111
+  offset: 11, 11
+  index: -1
+huanguang
+  rotate: true
+  xy: 2, 10
+  size: 239, 267
+  orig: 251, 279
+  offset: 6, 6
+  index: -1
+sheguang
+  rotate: true
+  xy: 595, 61
+  size: 98, 16
+  orig: 98, 16
+  offset: 0, 0
+  index: -1
+zhahouguang
+  rotate: false
+  xy: 271, 108
+  size: 137, 141
+  orig: 144, 152
+  offset: 4, 6
+  index: -1

@@ -1,0 +1,90 @@
+
+pd_door.png
+size: 960,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/0001
+  rotate: false
+  xy: 470, 3
+  size: 230, 148
+  orig: 247, 155
+  offset: 5, 4
+  index: -1
+imgers/0002
+  rotate: false
+  xy: 238, 2
+  size: 230, 147
+  orig: 247, 155
+  offset: 6, 5
+  index: -1
+imgers/0003
+  rotate: false
+  xy: 702, 8
+  size: 229, 138
+  orig: 247, 155
+  offset: 7, 9
+  index: -1
+imgers/0004
+  rotate: false
+  xy: 484, 153
+  size: 232, 141
+  orig: 247, 155
+  offset: 6, 6
+  index: -1
+imgers/0005
+  rotate: false
+  xy: 2, 2
+  size: 234, 147
+  orig: 247, 155
+  offset: 4, 4
+  index: -1
+imgers/0006
+  rotate: false
+  xy: 485, 296
+  size: 236, 144
+  orig: 247, 155
+  offset: 3, 4
+  index: -1
+imgers/0007
+  rotate: false
+  xy: 2, 296
+  size: 240, 144
+  orig: 247, 155
+  offset: 2, 4
+  index: -1
+imgers/0008
+  rotate: false
+  xy: 244, 298
+  size: 239, 142
+  orig: 247, 155
+  offset: 3, 6
+  index: -1
+imgers/0009
+  rotate: false
+  xy: 244, 153
+  size: 238, 143
+  orig: 247, 155
+  offset: 3, 5
+  index: -1
+imgers/0010
+  rotate: false
+  xy: 2, 151
+  size: 240, 143
+  orig: 247, 155
+  offset: 2, 6
+  index: -1
+imgers/0011
+  rotate: false
+  xy: 723, 296
+  size: 235, 144
+  orig: 247, 155
+  offset: 1, 5
+  index: -1
+imgers/0012
+  rotate: false
+  xy: 718, 148
+  size: 232, 146
+  orig: 247, 155
+  offset: 4, 5
+  index: -1

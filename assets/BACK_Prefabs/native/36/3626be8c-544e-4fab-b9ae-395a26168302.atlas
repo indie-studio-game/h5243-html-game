@@ -1,0 +1,62 @@
+
+enemy_2.png
+size: 222,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty
+  rotate: true
+  xy: 73, 2
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+zy_s
+  rotate: false
+  xy: 87, 4
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+zy_t
+  rotate: true
+  xy: 2, 2
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+zy_wb
+  rotate: false
+  xy: 208, 47
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+zy_yht
+  rotate: false
+  xy: 168, 33
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+zy_yqt
+  rotate: false
+  xy: 168, 5
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+zy_zht
+  rotate: false
+  xy: 188, 33
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+zy_zqt
+  rotate: false
+  xy: 189, 6
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1

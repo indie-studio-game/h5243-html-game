@@ -1,0 +1,69 @@
+
+djdh_17.png
+size: 412,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao
+  rotate: false
+  xy: 2, 205
+  size: 200, 86
+  orig: 204, 90
+  offset: 2, 2
+  index: -1
+qunzi
+  rotate: false
+  xy: 206, 2
+  size: 132, 89
+  orig: 134, 90
+  offset: 1, 1
+  index: -1
+shen
+  rotate: false
+  xy: 330, 106
+  size: 80, 119
+  orig: 81, 121
+  offset: 0, 1
+  index: -1
+tou
+  rotate: false
+  xy: 206, 93
+  size: 122, 132
+  orig: 126, 136
+  offset: 2, 2
+  index: -1
+tui
+  rotate: false
+  xy: 93, 67
+  size: 111, 136
+  orig: 111, 136
+  offset: 0, 0
+  index: -1
+youmawei
+  rotate: true
+  xy: 204, 227
+  size: 64, 168
+  orig: 64, 170
+  offset: 0, 1
+  index: -1
+youshou
+  rotate: false
+  xy: 93, 8
+  size: 71, 57
+  orig: 72, 58
+  offset: 1, 0
+  index: -1
+zuomawei
+  rotate: false
+  xy: 2, 23
+  size: 89, 180
+  orig: 90, 181
+  offset: 1, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 340, 10
+  size: 94, 58
+  orig: 96, 60
+  offset: 1, 1
+  index: -1

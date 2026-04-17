@@ -1,0 +1,76 @@
+
+weapon_9.png
+size: 1385,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+0_1
+  rotate: false
+  xy: 2, 262
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+0_2
+  rotate: false
+  xy: 293, 262
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+0_3
+  rotate: false
+  xy: 293, 2
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+0_4
+  rotate: false
+  xy: 584, 262
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 584, 3
+  size: 288, 257
+  orig: 288, 257
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 875, 266
+  size: 288, 254
+  orig: 288, 254
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 875, 14
+  size: 287, 250
+  orig: 287, 250
+  offset: 0, 0
+  index: -1
+szl_09
+  rotate: false
+  xy: 1165, 102
+  size: 211, 204
+  orig: 319, 301
+  offset: 53, 49
+  index: -1
+szl_09xy
+  rotate: false
+  xy: 1165, 308
+  size: 218, 212
+  orig: 219, 213
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+djdh_10.png
+size: 88,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shen
+  rotate: false
+  xy: 2, 30
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 44, 35
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 2, 81
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+weiqun
+  rotate: true
+  xy: 48, 93
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 2
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 10
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 53, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1

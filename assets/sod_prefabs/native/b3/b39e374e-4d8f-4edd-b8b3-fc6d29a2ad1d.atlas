@@ -1,0 +1,20 @@
+
+fjbb_ui_zjm_bx.png
+size: 319,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/xiang_guang
+  rotate: false
+  xy: 193, 65
+  size: 124, 126
+  orig: 132, 132
+  offset: 4, 3
+  index: -1
+tx/xiang_kai_guang3
+  rotate: false
+  xy: 2, 2
+  size: 189, 189
+  orig: 190, 189
+  offset: 1, 0
+  index: -1

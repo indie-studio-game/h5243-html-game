@@ -1,0 +1,118 @@
+
+demon_pistol.png
+size: 674,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/q1
+  rotate: false
+  xy: 2, 11
+  size: 181, 111
+  orig: 181, 111
+  offset: 0, 0
+  index: -1
+imgers/q1-1
+  rotate: false
+  xy: 185, 43
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+imgers/q1-2
+  rotate: false
+  xy: 383, 50
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: -1
+imgers/q1-3
+  rotate: false
+  xy: 283, 46
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+imgers/q1-6
+  rotate: false
+  xy: 590, 34
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+imgers/shoukao
+  rotate: false
+  xy: 491, 61
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+imgers/you1
+  rotate: true
+  xy: 552, 13
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+imgers/you2
+  rotate: false
+  xy: 185, 9
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+imgers/you3
+  rotate: true
+  xy: 621, 65
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+imgers/you4
+  rotate: false
+  xy: 491, 7
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+imgers/you5
+  rotate: false
+  xy: 383, 3
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+imgers/you6
+  rotate: false
+  xy: 283, 5
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+imgers/you7
+  rotate: true
+  xy: 232, 10
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+imgers/zuo1
+  rotate: false
+  xy: 330, 6
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+imgers/zuo2
+  rotate: true
+  xy: 452, 2
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+imgers/zuo3
+  rotate: false
+  xy: 621, 2
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1

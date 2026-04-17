@@ -1,0 +1,76 @@
+
+djdh_8.png
+size: 212,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houqun
+  rotate: true
+  xy: 2, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 172, 12
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 201, 69
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 119, 55
+  size: 44, 75
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 165, 78
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+weiqun
+  rotate: false
+  xy: 119, 9
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 34
+  size: 96, 115
+  orig: 97, 115
+  offset: 1, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 172, 4
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 165, 60
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 35, 6
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1

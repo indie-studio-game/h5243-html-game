@@ -1,0 +1,20 @@
+
+tfccp_hx.png
+size: 216,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_star_2
+  rotate: false
+  xy: 144, 2
+  size: 70, 70
+  orig: 73, 73
+  offset: 2, 1
+  index: -1
+leven_up_light
+  rotate: true
+  xy: 2, 37
+  size: 35, 140
+  orig: 42, 146
+  offset: 4, 3
+  index: -1

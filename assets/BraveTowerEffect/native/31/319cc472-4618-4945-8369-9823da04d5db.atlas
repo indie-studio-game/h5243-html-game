@@ -1,0 +1,20 @@
+
+skill_2_debaff.png
+size: 220,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weaken_1
+  rotate: true
+  xy: 2, 183
+  size: 35, 140
+  orig: 42, 146
+  offset: 4, 3
+  index: -1
+weaken_2
+  rotate: true
+  xy: 144, 160
+  size: 58, 74
+  orig: 62, 78
+  offset: 2, 3
+  index: -1

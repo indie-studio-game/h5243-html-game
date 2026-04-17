@@ -1,0 +1,125 @@
+
+meinv.png
+size: 749,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: false
+  xy: 709, 618
+  size: 38, 129
+  orig: 40, 131
+  offset: 1, 1
+  index: -1
+fa2
+  rotate: false
+  xy: 677, 307
+  size: 66, 124
+  orig: 70, 125
+  offset: 2, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 677, 433
+  size: 65, 130
+  orig: 67, 136
+  offset: 1, 5
+  index: -1
+kz_01
+  rotate: false
+  xy: 2, 392
+  size: 408, 355
+  orig: 418, 356
+  offset: 1, 0
+  index: -1
+shengzi_01
+  rotate: false
+  xy: 191, 97
+  size: 169, 103
+  orig: 170, 103
+  offset: 0, 0
+  index: -1
+shenti _01
+  rotate: false
+  xy: 2, 168
+  size: 187, 222
+  orig: 194, 226
+  offset: 0, 0
+  index: -1
+tfh
+  rotate: true
+  xy: 412, 565
+  size: 182, 295
+  orig: 182, 297
+  offset: 0, 1
+  index: -1
+touding
+  rotate: true
+  xy: 393, 82
+  size: 140, 164
+  orig: 143, 168
+  offset: 2, 2
+  index: -1
+ty1
+  rotate: true
+  xy: 586, 212
+  size: 174, 77
+  orig: 178, 81
+  offset: 2, 2
+  index: -1
+yj
+  rotate: false
+  xy: 588, 22
+  size: 92, 93
+  orig: 98, 95
+  offset: 4, 1
+  index: -1
+youxiong _01
+  rotate: true
+  xy: 665, 212
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+yt
+  rotate: false
+  xy: 393, 224
+  size: 191, 162
+  orig: 244, 209
+  offset: 53, 46
+  index: -1
+yyf
+  rotate: false
+  xy: 559, 117
+  size: 183, 93
+  orig: 186, 95
+  offset: 1, 1
+  index: -1
+zhuzi_01
+  rotate: true
+  xy: 2, 2
+  size: 78, 584
+  orig: 80, 586
+  offset: 1, 1
+  index: -1
+zj
+  rotate: false
+  xy: 412, 388
+  size: 263, 175
+  orig: 267, 179
+  offset: 2, 2
+  index: -1
+zt
+  rotate: false
+  xy: 191, 202
+  size: 200, 188
+  orig: 203, 191
+  offset: 1, 1
+  index: -1
+zuoxiong _01
+  rotate: false
+  xy: 2, 84
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1

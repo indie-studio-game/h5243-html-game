@@ -1,0 +1,62 @@
+
+tfccp_sdx.png
+size: 664,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/Uhlan_atk2_liuqi_0001
+  rotate: false
+  xy: 333, 148
+  size: 315, 64
+  orig: 329, 74
+  offset: 14, 1
+  index: -1
+imgers/Uhlan_atk2_liuqi_0002
+  rotate: false
+  xy: 2, 2
+  size: 317, 64
+  orig: 329, 74
+  offset: 12, 6
+  index: -1
+imgers/Uhlan_atk2_liuqi_0003
+  rotate: false
+  xy: 2, 68
+  size: 328, 70
+  orig: 329, 74
+  offset: 1, 0
+  index: -1
+imgers/Uhlan_atk2_liuqi_0004
+  rotate: false
+  xy: 2, 213
+  size: 329, 74
+  orig: 329, 74
+  offset: 0, 0
+  index: -1
+imgers/Uhlan_atk2_liuqi_0005
+  rotate: false
+  xy: 332, 72
+  size: 293, 74
+  orig: 329, 74
+  offset: 2, 0
+  index: -1
+imgers/Uhlan_atk2_liuqi_0006
+  rotate: false
+  xy: 333, 214
+  size: 329, 73
+  orig: 329, 74
+  offset: 0, 0
+  index: -1
+imgers/Uhlan_atk2_liuqi_0007
+  rotate: false
+  xy: 2, 140
+  size: 328, 71
+  orig: 329, 74
+  offset: 1, 1
+  index: -1
+imgers/cy_zt_fh_06
+  rotate: true
+  xy: 332, 5
+  size: 65, 198
+  orig: 67, 208
+  offset: 1, 2
+  index: -1

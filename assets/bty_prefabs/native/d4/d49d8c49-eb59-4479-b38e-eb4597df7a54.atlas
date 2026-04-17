@@ -1,0 +1,167 @@
+
+bgtx.png
+size: 1602,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+爆炸特效/0
+  rotate: false
+  xy: 879, 3
+  size: 23, 20
+  orig: 309, 298
+  offset: 145, 132
+  index: -1
+爆炸特效/1
+  rotate: true
+  xy: 1038, 3
+  size: 58, 60
+  orig: 309, 298
+  offset: 131, 110
+  index: -1
+爆炸特效/11
+  rotate: true
+  xy: 604, 191
+  size: 206, 195
+  orig: 309, 298
+  offset: 58, 55
+  index: -1
+爆炸特效/13
+  rotate: false
+  xy: 681, 4
+  size: 196, 185
+  orig: 309, 298
+  offset: 64, 63
+  index: -1
+爆炸特效/15
+  rotate: false
+  xy: 2, 11
+  size: 168, 171
+  orig: 309, 298
+  offset: 71, 71
+  index: -1
+爆炸特效/17
+  rotate: true
+  xy: 1038, 63
+  size: 165, 164
+  orig: 309, 298
+  offset: 74, 72
+  index: -1
+爆炸特效/19
+  rotate: true
+  xy: 993, 230
+  size: 167, 165
+  orig: 309, 298
+  offset: 73, 72
+  index: -1
+爆炸特效/2
+  rotate: true
+  xy: 1342, 3
+  size: 141, 145
+  orig: 309, 298
+  offset: 91, 68
+  index: -1
+爆炸特效/21
+  rotate: true
+  xy: 330, 14
+  size: 168, 165
+  orig: 309, 298
+  offset: 72, 73
+  index: -1
+爆炸特效/23
+  rotate: true
+  xy: 879, 25
+  size: 168, 157
+  orig: 309, 298
+  offset: 72, 82
+  index: -1
+爆炸特效/3
+  rotate: false
+  xy: 172, 11
+  size: 156, 171
+  orig: 309, 298
+  offset: 87, 55
+  index: -1
+爆炸特效/4
+  rotate: false
+  xy: 497, 2
+  size: 182, 183
+  orig: 309, 298
+  offset: 73, 48
+  index: -1
+爆炸特效/5
+  rotate: true
+  xy: 801, 195
+  size: 202, 190
+  orig: 309, 298
+  offset: 53, 46
+  index: -1
+爆炸特效/6
+  rotate: true
+  xy: 405, 187
+  size: 210, 197
+  orig: 309, 298
+  offset: 45, 46
+  index: -1
+爆炸特效/7
+  rotate: true
+  xy: 2, 184
+  size: 213, 200
+  orig: 309, 298
+  offset: 43, 45
+  index: -1
+爆炸特效/9
+  rotate: true
+  xy: 204, 184
+  size: 213, 199
+  orig: 309, 298
+  offset: 51, 50
+  index: -1
+爆炸特效/cz_yan1
+  rotate: false
+  xy: 1342, 146
+  size: 86, 91
+  orig: 161, 138
+  offset: 35, 12
+  index: -1
+爆炸特效/cz_yan2
+  rotate: true
+  xy: 1489, 61
+  size: 131, 111
+  orig: 161, 138
+  offset: 14, 11
+  index: -1
+爆炸特效/cz_yan3
+  rotate: false
+  xy: 1432, 194
+  size: 148, 128
+  orig: 161, 138
+  offset: 3, 4
+  index: -1
+爆炸特效/cz_yan4
+  rotate: true
+  xy: 1204, 75
+  size: 159, 136
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+爆炸特效/cz_yan5
+  rotate: true
+  xy: 1160, 236
+  size: 161, 134
+  orig: 161, 138
+  offset: 0, 1
+  index: -1
+爆炸特效/cz_yan6
+  rotate: true
+  xy: 1296, 239
+  size: 158, 134
+  orig: 161, 138
+  offset: 2, 2
+  index: -1
+爆炸特效/cz_yan7
+  rotate: false
+  xy: 1432, 324
+  size: 155, 73
+  orig: 161, 138
+  offset: 4, 65
+  index: -1

@@ -1,0 +1,76 @@
+
+djdh_18.png
+size: 204,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic0
+  rotate: false
+  xy: 97, 24
+  size: 49, 48
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+pic1
+  rotate: false
+  xy: 148, 49
+  size: 42, 23
+  orig: 44, 25
+  offset: 1, 1
+  index: -1
+pic2
+  rotate: false
+  xy: 161, 10
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+pic3
+  rotate: true
+  xy: 148, 23
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+pic4
+  rotate: true
+  xy: 122, 7
+  size: 15, 19
+  orig: 17, 20
+  offset: 1, 1
+  index: -1
+pic5
+  rotate: false
+  xy: 151, 74
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+pic6
+  rotate: false
+  xy: 97, 74
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+pic7
+  rotate: false
+  xy: 2, 2
+  size: 93, 127
+  orig: 95, 129
+  offset: 1, 1
+  index: -1
+pic8
+  rotate: true
+  xy: 97, 6
+  size: 16, 23
+  orig: 18, 25
+  offset: 1, 1
+  index: -1
+pic9
+  rotate: true
+  xy: 143, 10
+  size: 11, 16
+  orig: 13, 18
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,69 @@
+
+weapon_5_dw.png
+size: 721,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+du_1
+  rotate: true
+  xy: 2, 5
+  size: 63, 87
+  orig: 80, 101
+  offset: 9, 7
+  index: -1
+du_2
+  rotate: true
+  xy: 91, 3
+  size: 65, 85
+  orig: 80, 101
+  offset: 8, 7
+  index: -1
+du_3
+  rotate: true
+  xy: 178, 3
+  size: 65, 84
+  orig: 80, 101
+  offset: 6, 7
+  index: -1
+du_4
+  rotate: true
+  xy: 264, 4
+  size: 64, 84
+  orig: 80, 101
+  offset: 6, 7
+  index: -1
+du_5
+  rotate: true
+  xy: 350, 5
+  size: 63, 85
+  orig: 80, 101
+  offset: 7, 6
+  index: -1
+du_6
+  rotate: true
+  xy: 437, 3
+  size: 65, 82
+  orig: 80, 101
+  offset: 7, 10
+  index: -1
+du_7
+  rotate: true
+  xy: 521, 2
+  size: 66, 82
+  orig: 80, 101
+  offset: 5, 12
+  index: -1
+du_8
+  rotate: true
+  xy: 605, 3
+  size: 65, 81
+  orig: 80, 101
+  offset: 7, 15
+  index: -1
+xian
+  rotate: false
+  xy: 688, 36
+  size: 31, 32
+  orig: 33, 34
+  offset: 2, 0
+  index: -1

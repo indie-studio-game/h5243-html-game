@@ -1,0 +1,62 @@
+
+effect_die_zw.png
+size: 1387,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die_tx1
+  rotate: false
+  xy: 1295, 61
+  size: 90, 111
+  orig: 190, 177
+  offset: 47, 0
+  index: -1
+die_tx2
+  rotate: false
+  xy: 1131, 17
+  size: 162, 155
+  orig: 190, 177
+  offset: 11, 3
+  index: -1
+die_tx3
+  rotate: false
+  xy: 951, 8
+  size: 178, 164
+  orig: 190, 177
+  offset: 6, 4
+  index: -1
+die_tx4
+  rotate: false
+  xy: 766, 7
+  size: 183, 165
+  orig: 190, 177
+  offset: 4, 5
+  index: -1
+die_tx5
+  rotate: false
+  xy: 577, 6
+  size: 187, 166
+  orig: 190, 177
+  offset: 2, 6
+  index: -1
+die_tx6
+  rotate: false
+  xy: 385, 4
+  size: 190, 168
+  orig: 190, 177
+  offset: 0, 6
+  index: -1
+die_tx7
+  rotate: false
+  xy: 2, 2
+  size: 190, 170
+  orig: 190, 177
+  offset: 0, 7
+  index: -1
+die_tx8
+  rotate: false
+  xy: 194, 3
+  size: 189, 169
+  orig: 190, 177
+  offset: 1, 8
+  index: -1

@@ -1,0 +1,20 @@
+
+weapon_3.png
+size: 319,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kongque
+  rotate: true
+  xy: 2, 2
+  size: 66, 216
+  orig: 66, 216
+  offset: 0, 0
+  index: -1
+szl_03
+  rotate: false
+  xy: 2, 70
+  size: 315, 106
+  orig: 319, 301
+  offset: 2, 58
+  index: -1

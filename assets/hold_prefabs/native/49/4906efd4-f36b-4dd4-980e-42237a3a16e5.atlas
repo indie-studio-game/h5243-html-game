@@ -1,0 +1,90 @@
+
+weapon_10.png
+size: 1484,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguangb_0012
+  rotate: false
+  xy: 820, 366
+  size: 430, 234
+  orig: 720, 720
+  offset: 113, 210
+  index: -1
+daoguangb_0013
+  rotate: false
+  xy: 820, 129
+  size: 414, 235
+  orig: 720, 720
+  offset: 128, 208
+  index: -1
+daoguangb_0014
+  rotate: true
+  xy: 1252, 185
+  size: 415, 230
+  orig: 720, 720
+  offset: 127, 208
+  index: -1
+daoguangb_0015
+  rotate: false
+  xy: 2, 135
+  size: 411, 224
+  orig: 720, 720
+  offset: 128, 211
+  index: -1
+daoguangb_0016
+  rotate: false
+  xy: 2, 361
+  size: 411, 239
+  orig: 720, 720
+  offset: 129, 195
+  index: -1
+daoguangb_0017
+  rotate: false
+  xy: 415, 362
+  size: 403, 238
+  orig: 720, 720
+  offset: 132, 192
+  index: -1
+daoguangb_0018
+  rotate: false
+  xy: 415, 171
+  size: 384, 189
+  orig: 720, 720
+  offset: 142, 238
+  index: -1
+daoguangb_0019
+  rotate: false
+  xy: 415, 40
+  size: 349, 129
+  orig: 720, 720
+  offset: 148, 295
+  index: -1
+daoguangb_0020
+  rotate: false
+  xy: 2, 8
+  size: 322, 125
+  orig: 720, 720
+  offset: 156, 293
+  index: -1
+daoguangb_0021
+  rotate: false
+  xy: 766, 2
+  size: 308, 125
+  orig: 720, 720
+  offset: 168, 291
+  index: -1
+daoguangb_0022
+  rotate: false
+  xy: 1076, 5
+  size: 286, 122
+  orig: 720, 720
+  offset: 181, 288
+  index: -1
+szl_10
+  rotate: true
+  xy: 1236, 134
+  size: 49, 209
+  orig: 319, 301
+  offset: 133, 67
+  index: -1

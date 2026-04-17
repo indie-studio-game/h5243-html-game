@@ -1,0 +1,118 @@
+
+demon_Goldenpistol.png
+size: 494,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/q1-1
+  rotate: false
+  xy: 396, 74
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+imgers/q1-2
+  rotate: true
+  xy: 191, 53
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+imgers/q1-3
+  rotate: true
+  xy: 261, 56
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+imgers/q1-6
+  rotate: true
+  xy: 399, 44
+  size: 28, 85
+  orig: 28, 85
+  offset: 0, 0
+  index: -1
+imgers/q2
+  rotate: false
+  xy: 2, 51
+  size: 187, 102
+  orig: 187, 102
+  offset: 0, 0
+  index: -1
+imgers/shoukao
+  rotate: true
+  xy: 333, 56
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+imgers/you1
+  rotate: true
+  xy: 65, 3
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+imgers/you2
+  rotate: false
+  xy: 445, 10
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+imgers/you3
+  rotate: false
+  xy: 340, 3
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+imgers/you4
+  rotate: false
+  xy: 279, 2
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+imgers/you5
+  rotate: false
+  xy: 169, 4
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+imgers/you6
+  rotate: true
+  xy: 238, 6
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+imgers/you7
+  rotate: false
+  xy: 136, 3
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+imgers/zuo1
+  rotate: false
+  xy: 399, 4
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+imgers/zuo2
+  rotate: true
+  xy: 102, 3
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+imgers/zuo3
+  rotate: true
+  xy: 2, 2
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1

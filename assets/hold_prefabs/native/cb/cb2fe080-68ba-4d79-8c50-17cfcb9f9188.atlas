@@ -1,0 +1,76 @@
+
+weapon_2.png
+size: 1371,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 259
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: false
+  xy: 2, 3
+  size: 289, 254
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 875, 2
+  size: 288, 257
+  orig: 288, 257
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: false
+  xy: 293, 259
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 293, 3
+  size: 288, 254
+  orig: 288, 254
+  offset: 0, 0
+  index: -1
+6_1
+  rotate: false
+  xy: 584, 259
+  size: 289, 258
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 583, 7
+  size: 287, 250
+  orig: 287, 250
+  offset: 0, 0
+  index: -1
+7_1
+  rotate: false
+  xy: 875, 261
+  size: 289, 256
+  orig: 289, 258
+  offset: 0, 0
+  index: -1
+szl_02
+  rotate: false
+  xy: 1166, 311
+  size: 197, 206
+  orig: 319, 301
+  offset: 61, 48
+  index: -1
+szl_02xy
+  rotate: false
+  xy: 1165, 45
+  size: 204, 214
+  orig: 204, 214
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+slxz_ahqpgx.png
+size: 1338,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq_1
+  rotate: true
+  xy: 2, 249
+  size: 750, 1334
+  orig: 754, 1338
+  offset: 2, 2
+  index: -1
+lzi
+  rotate: false
+  xy: 1159, 228
+  size: 19, 19
+  orig: 25, 25
+  offset: 3, 3
+  index: -1
+wu
+  rotate: true
+  xy: 2, 2
+  size: 245, 1155
+  orig: 245, 1155
+  offset: 0, 0
+  index: -1

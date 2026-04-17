@@ -1,0 +1,13 @@
+
+weapon_7.png
+size: 284,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+szl_07
+  rotate: false
+  xy: 2, 2
+  size: 280, 138
+  orig: 319, 301
+  offset: 20, 64
+  index: -1

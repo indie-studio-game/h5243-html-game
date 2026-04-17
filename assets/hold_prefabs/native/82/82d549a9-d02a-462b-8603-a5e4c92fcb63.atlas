@@ -1,0 +1,20 @@
+
+weapon_5.png
+size: 233,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+szl_05
+  rotate: true
+  xy: 2, 2
+  size: 161, 183
+  orig: 319, 301
+  offset: 79, 44
+  index: -1
+szl_05_1
+  rotate: false
+  xy: 187, 95
+  size: 44, 68
+  orig: 319, 301
+  offset: 124, 195
+  index: -1

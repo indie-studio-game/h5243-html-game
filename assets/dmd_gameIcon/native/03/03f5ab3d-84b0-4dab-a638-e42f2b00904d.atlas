@@ -1,0 +1,90 @@
+
+demon_goldengun.png
+size: 2032,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imgers/24_atk1
+  rotate: true
+  xy: 1956, 277
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+imgers/24_atk2
+  rotate: true
+  xy: 1956, 189
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+imgers/24_atk3
+  rotate: true
+  xy: 1956, 101
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+imgers/24_atk4
+  rotate: true
+  xy: 1956, 13
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+imgers/q2
+  rotate: true
+  xy: 1081, 124
+  size: 187, 102
+  orig: 187, 102
+  offset: 0, 0
+  index: -1
+imgers/q_4
+  rotate: true
+  xy: 2, 2
+  size: 207, 571
+  orig: 207, 571
+  offset: 0, 0
+  index: -1
+imgers/q_5
+  rotate: false
+  xy: 2, 211
+  size: 484, 736
+  orig: 484, 736
+  offset: 0, 0
+  index: -1
+imgers/q_6
+  rotate: true
+  xy: 1441, 365
+  size: 582, 585
+  orig: 582, 585
+  offset: 0, 0
+  index: -1
+imgers/q_7
+  rotate: true
+  xy: 956, 313
+  size: 634, 483
+  orig: 634, 483
+  offset: 0, 0
+  index: -1
+imgers/q_8
+  rotate: true
+  xy: 488, 274
+  size: 673, 466
+  orig: 673, 466
+  offset: 0, 0
+  index: -1
+imgers/sq
+  rotate: true
+  xy: 1441, 13
+  size: 350, 513
+  orig: 350, 513
+  offset: 0, 0
+  index: -1
+imgers/sq2
+  rotate: true
+  xy: 575, 5
+  size: 267, 504
+  orig: 267, 504
+  offset: 0, 0
+  index: -1

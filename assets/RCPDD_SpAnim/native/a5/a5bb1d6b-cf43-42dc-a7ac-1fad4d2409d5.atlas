@@ -1,0 +1,125 @@
+
+djdh_2.png
+size: 212,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic0
+  rotate: true
+  xy: 2, 2
+  size: 15, 25
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+pic1
+  rotate: false
+  xy: 29, 2
+  size: 12, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+pic10
+  rotate: true
+  xy: 166, 5
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+pic11
+  rotate: true
+  xy: 64, 3
+  size: 14, 9
+  orig: 16, 11
+  offset: 1, 1
+  index: -1
+pic12
+  rotate: false
+  xy: 2, 19
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+pic13
+  rotate: true
+  xy: 195, 23
+  size: 20, 9
+  orig: 22, 11
+  offset: 1, 1
+  index: -1
+pic14
+  rotate: false
+  xy: 147, 4
+  size: 17, 31
+  orig: 19, 33
+  offset: 1, 1
+  index: -1
+pic15
+  rotate: true
+  xy: 75, 5
+  size: 12, 27
+  orig: 14, 29
+  offset: 1, 1
+  index: -1
+pic16
+  rotate: false
+  xy: 104, 3
+  size: 22, 23
+  orig: 24, 25
+  offset: 1, 1
+  index: -1
+pic2
+  rotate: false
+  xy: 43, 3
+  size: 19, 14
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+pic3
+  rotate: false
+  xy: 56, 19
+  size: 37, 56
+  orig: 39, 58
+  offset: 1, 1
+  index: -1
+pic4
+  rotate: false
+  xy: 195, 3
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+pic5
+  rotate: false
+  xy: 128, 3
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+pic6
+  rotate: false
+  xy: 189, 45
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+pic7
+  rotate: false
+  xy: 170, 39
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+pic8
+  rotate: false
+  xy: 95, 28
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+pic9
+  rotate: false
+  xy: 135, 37
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1

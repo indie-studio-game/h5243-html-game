@@ -1,0 +1,83 @@
+
+djdh_5.png
+size: 123,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic0
+  rotate: false
+  xy: 81, 11
+  size: 28, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+pic1
+  rotate: true
+  xy: 111, 39
+  size: 11, 10
+  orig: 14, 12
+  offset: 2, 1
+  index: -1
+pic18
+  rotate: true
+  xy: 102, 52
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+pic2
+  rotate: false
+  xy: 57, 42
+  size: 25, 35
+  orig: 27, 37
+  offset: 1, 1
+  index: -1
+pic3
+  rotate: false
+  xy: 84, 46
+  size: 16, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+pic4
+  rotate: false
+  xy: 99, 81
+  size: 18, 19
+  orig: 18, 20
+  offset: 0, 1
+  index: -1
+pic5
+  rotate: true
+  xy: 2, 2
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+pic6
+  rotate: false
+  xy: 2, 46
+  size: 53, 93
+  orig: 54, 93
+  offset: 1, 0
+  index: -1
+pic7
+  rotate: false
+  xy: 57, 79
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+pic8
+  rotate: false
+  xy: 99, 102
+  size: 22, 37
+  orig: 24, 39
+  offset: 1, 1
+  index: -1
+pic9
+  rotate: false
+  xy: 57, 7
+  size: 22, 33
+  orig: 24, 35
+  offset: 1, 1
+  index: -1

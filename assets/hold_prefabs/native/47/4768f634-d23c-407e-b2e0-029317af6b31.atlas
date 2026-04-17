@@ -1,0 +1,13 @@
+
+doorHit.png
+size: 206,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq
+  rotate: false
+  xy: 2, 2
+  size: 202, 200
+  orig: 204, 203
+  offset: 1, 2
+  index: -1

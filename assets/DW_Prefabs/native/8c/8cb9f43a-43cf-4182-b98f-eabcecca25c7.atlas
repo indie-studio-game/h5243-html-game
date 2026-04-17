@@ -1,0 +1,48 @@
+
+yd_xw.png
+size: 674,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xw_1_b
+  rotate: false
+  xy: 2, 132
+  size: 222, 224
+  orig: 224, 226
+  offset: 1, 1
+  index: -1
+xw_1_b1
+  rotate: false
+  xy: 450, 132
+  size: 222, 224
+  orig: 222, 224
+  offset: 0, 0
+  index: -1
+xw_1_b2
+  rotate: false
+  xy: 226, 132
+  size: 222, 224
+  orig: 222, 224
+  offset: 0, 0
+  index: -1
+xw_1_d
+  rotate: false
+  xy: 2, 2
+  size: 198, 128
+  orig: 201, 130
+  offset: 2, 1
+  index: -1
+xw_1_d1
+  rotate: false
+  xy: 402, 2
+  size: 198, 128
+  orig: 199, 128
+  offset: 1, 0
+  index: -1
+xw_1_d2
+  rotate: false
+  xy: 202, 2
+  size: 198, 128
+  orig: 199, 128
+  offset: 1, 0
+  index: -1

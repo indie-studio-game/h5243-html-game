@@ -1,0 +1,265 @@
+
+skill_12.png
+size: 978,978
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan_guang
+  rotate: false
+  xy: 797, 438
+  size: 160, 160
+  orig: 172, 170
+  offset: 6, 5
+  index: -1
+dan_guang1
+  rotate: true
+  xy: 427, 9
+  size: 146, 169
+  orig: 152, 185
+  offset: 4, 7
+  index: -1
+jz_guang1_1
+  rotate: true
+  xy: 2, 280
+  size: 193, 174
+  orig: 300, 300
+  offset: 54, 56
+  index: -1
+jz_guang1_2
+  rotate: true
+  xy: 2, 93
+  size: 185, 174
+  orig: 300, 300
+  offset: 60, 56
+  index: -1
+jz_guang1_3
+  rotate: false
+  xy: 314, 554
+  size: 191, 174
+  orig: 300, 300
+  offset: 56, 57
+  index: -1
+jz_guang1_4
+  rotate: false
+  xy: 427, 157
+  size: 181, 169
+  orig: 300, 300
+  offset: 57, 57
+  index: -1
+jz_guang1_5
+  rotate: true
+  xy: 798, 794
+  size: 182, 169
+  orig: 300, 300
+  offset: 59, 58
+  index: -1
+jz_guang2_1
+  rotate: false
+  xy: 608, 423
+  size: 187, 168
+  orig: 300, 300
+  offset: 55, 63
+  index: -1
+jz_guang2_2
+  rotate: true
+  xy: 178, 7
+  size: 209, 170
+  orig: 300, 300
+  offset: 46, 63
+  index: -1
+jz_guang2_3
+  rotate: false
+  xy: 589, 807
+  size: 207, 169
+  orig: 300, 300
+  offset: 47, 63
+  index: -1
+jz_guang2_4
+  rotate: true
+  xy: 610, 218
+  size: 203, 167
+  orig: 300, 300
+  offset: 49, 64
+  index: -1
+jz_guang2_5
+  rotate: false
+  xy: 610, 50
+  size: 195, 166
+  orig: 300, 300
+  offset: 53, 64
+  index: -1
+jz_guang2_6
+  rotate: true
+  xy: 779, 237
+  size: 184, 166
+  orig: 300, 300
+  offset: 58, 64
+  index: -1
+jz_guang3
+  rotate: false
+  xy: 837, 611
+  size: 123, 123
+  orig: 131, 131
+  offset: 4, 4
+  index: -1
+jz_guang4
+  rotate: false
+  xy: 2, 475
+  size: 176, 177
+  orig: 177, 177
+  offset: 1, 0
+  index: -1
+卷轴
+  rotate: true
+  xy: 2, 654
+  size: 218, 203
+  orig: 220, 205
+  offset: 1, 1
+  index: -1
+卷轴光
+  rotate: true
+  xy: 350, 730
+  size: 246, 237
+  orig: 248, 240
+  offset: 1, 1
+  index: -1
+卷轴头
+  rotate: false
+  xy: 507, 645
+  size: 328, 83
+  orig: 330, 86
+  offset: 1, 1
+  index: -1
+卷轴头光
+  rotate: false
+  xy: 2, 874
+  size: 346, 102
+  orig: 350, 106
+  offset: 2, 2
+  index: -1
+卷轴头字
+  rotate: false
+  xy: 589, 737
+  size: 178, 68
+  orig: 182, 73
+  offset: 2, 3
+  index: -1
+卷轴底
+  rotate: true
+  xy: 351, 132
+  size: 310, 74
+  orig: 312, 76
+  offset: 1, 1
+  index: -1
+卷轴底光
+  rotate: true
+  xy: 207, 530
+  size: 342, 105
+  orig: 348, 109
+  offset: 3, 2
+  index: -1
+卷轴底字
+  rotate: false
+  xy: 180, 444
+  size: 253, 84
+  orig: 257, 116
+  offset: 2, 1
+  index: -1
+字1
+  rotate: true
+  xy: 757, 600
+  size: 43, 54
+  orig: 47, 58
+  offset: 2, 2
+  index: -1
+字10
+  rotate: true
+  xy: 507, 590
+  size: 53, 77
+  orig: 56, 79
+  offset: 1, 1
+  index: -1
+字11
+  rotate: true
+  xy: 64, 43
+  size: 48, 87
+  orig: 50, 89
+  offset: 1, 1
+  index: -1
+字12
+  rotate: true
+  xy: 695, 597
+  size: 46, 60
+  orig: 48, 62
+  offset: 1, 1
+  index: -1
+字2
+  rotate: true
+  xy: 829, 736
+  size: 56, 71
+  orig: 60, 76
+  offset: 2, 3
+  index: -1
+字3
+  rotate: false
+  xy: 769, 735
+  size: 58, 57
+  orig: 62, 61
+  offset: 2, 2
+  index: -1
+字4
+  rotate: false
+  xy: 64, 2
+  size: 47, 39
+  orig: 49, 42
+  offset: 1, 2
+  index: -1
+字5
+  rotate: true
+  xy: 640, 594
+  size: 49, 53
+  orig: 53, 56
+  offset: 2, 1
+  index: -1
+字6
+  rotate: true
+  xy: 314, 792
+  size: 39, 26
+  orig: 43, 28
+  offset: 2, 1
+  index: -1
+字7
+  rotate: false
+  xy: 314, 833
+  size: 34, 39
+  orig: 36, 42
+  offset: 1, 1
+  index: -1
+字8
+  rotate: false
+  xy: 586, 593
+  size: 52, 50
+  orig: 54, 52
+  offset: 1, 1
+  index: -1
+字9
+  rotate: false
+  xy: 2, 31
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 1
+  index: -1
+字面
+  rotate: false
+  xy: 435, 328
+  size: 171, 224
+  orig: 175, 228
+  offset: 2, 2
+  index: -1
+字面2
+  rotate: false
+  xy: 178, 218
+  size: 171, 224
+  orig: 175, 227
+  offset: 2, 1
+  index: -1
